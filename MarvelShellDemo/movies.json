@@ -1,0 +1,689 @@
+[{
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-17/",
+    "box_office_revenue": "318412101",
+    "budget": "140000000",
+    "date_added": "2009-07-08 13:39:24",
+    "date_last_updated": "2018-08-25 20:08:14",
+    "deck": "Feature-length live action film based around the Marvel character Iron Man, released in 2008 and starring Robert Downey Jr. It serves as the productive beginning of the Marvel Cinematic Universe but chronologically second.",
+    "description": "<h2>Plot Summary</h2><p>In <a data-ref-id=\"4020-55914\" href=\"/afghanistan/4020-55914/\">Afghanistan</a> to introduce new weaponry, playboy and genius engineer <a data-ref-id=\"4005-1455\" href=\"/iron-man/4005-1455/\">Tony Stark</a> is captured by a terrorist organization known as the Ten Rings after being severely wounded in an explosion. The terrorists imprison him in a cave along with <a data-ref-id=\"4005-7858\" href=\"/yinsen/4005-7858/\">Yinsen</a>, an engineer. Slowly dying from the injuries sustained in his capture, Tony creates an electromagnet with the help of Yinsen which keeps the shrapnel away from his heart. Soon they begin work on an arc reactor and a power suit which will aid in their escape. Completing it in secret, Stark manages to escape, in the process destroying much of the terrorist base with his suit's weapons. He crashes it in the desert shortly after escaping, and is rescued.</p><p>Upon returning home, Stark insists that <a data-ref-id=\"4060-56840\" href=\"/stark-industries/4060-56840/\">Stark Industries</a> cease production of weaponry, to the consternation of <a data-ref-id=\"4005-31197\" href=\"/obadiah-stane/4005-31197/\">Obadiah Stane</a>, Stark's father's business partner and manager of the company, who believes this will ruin the business. Meanwhile, Stark works on creating a vastly improved version of his suit. Learning that Stark weapons are being used by the Ten Rings, and that Stane is attempting to take over control of the company, an angered Stark flies to Afghanistan and stops a Ten Rings attack on Yinsen's home village. On his return flight he is attacked by members of the <a data-ref-id=\"4060-44417\" href=\"/us-air-force/4060-44417/\">US Air Force</a>, and is forced to reveal his secret identity to <a data-ref-id=\"4005-13921\" href=\"/mauler/4005-13921/\">James Rhodes</a> in order to end the attack. In Afghanistan, members of the Ten Rings, working together with Stane, salvage the wrecked remains of Stark's original suit. Stane has the group destroyed, and reverse engineers a version of the suit. In pursuit of the person who is leaking Stark technology to the Ten Rings, Stark sends his assistant <a data-ref-id=\"4005-4263\" href=\"/pepper-potts/4005-4263/\">Pepper Potts</a> to investigate the computer systems at Stark Industries. She learns of Stane's involvement with, and later reveals this information to <a data-ref-id=\"4005-70860\" href=\"/agent-coulson/4005-70860/\">Agent Coulson</a> of <a data-ref-id=\"4060-3775\" href=\"/shield/4060-3775/\">SHIELD</a>.</p><p>Stane, frustrated by his inability to create a working arc reactor, attacks Stark and steals his arc reactor, paralyzing him and dooming him to a slow death from the shrapnel. Stark is able to save himself using his original arc reactor. He confronts Stane wearing his armour, while Stane is similarly outfitted in his reverse engineered suit. The pair fight, and Stark is able to defeat Stane by orchestrating the overload of a massive arc reactor; Stane dies in the explosion. Stark reveals his identity as Iron Man at a press conference, contravening the orders of Agent Coulson.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 17,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/868768-ironmanposter3.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/868768-ironmanposter3.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/868768-ironmanposter3.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/868768-ironmanposter3.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/868768-ironmanposter3.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/868768-ironmanposter3.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/868768-ironmanposter3.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/868768-ironmanposter3.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/868768-ironmanposter3.jpg",
+        "image_tags": "All Images,Iron Man"
+    },
+    "name": "Iron Man",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-40467/",
+        "id": 40467,
+        "name": "Stan Lee",
+        "site_detail_url": "https://comicvine.gamespot.com/stan-lee/4040-40467/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-60564/",
+        "id": 60564,
+        "name": "Avi Arad",
+        "site_detail_url": "https://comicvine.gamespot.com/avi-arad/4040-60564/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-74372/",
+        "id": 74372,
+        "name": "Kevin Feige",
+        "site_detail_url": "https://comicvine.gamespot.com/kevin-feige/4040-74372/"
+    }],
+    "rating": "PG-13",
+    "release_date": "2018-08-25 20:08:14",
+    "runtime": "2 hr 6",
+    "site_detail_url": "https://comicvine.gamespot.com/iron-man/4025-17/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "585174222",
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-4068/",
+        "id": 4068,
+        "name": "Larry Lieber",
+        "site_detail_url": "https://comicvine.gamespot.com/larry-lieber/4040-4068/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-5614/",
+        "id": 5614,
+        "name": "Jack Kirby",
+        "site_detail_url": "https://comicvine.gamespot.com/jack-kirby/4040-5614/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-6609/",
+        "id": 6609,
+        "name": "Don Heck",
+        "site_detail_url": "https://comicvine.gamespot.com/don-heck/4040-6609/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-40467/",
+        "id": 40467,
+        "name": "Stan Lee",
+        "site_detail_url": "https://comicvine.gamespot.com/stan-lee/4040-40467/"
+    }]
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-18/",
+    "box_office_revenue": "115802596",
+    "budget": "110000000",
+    "date_added": "2009-07-08 14:21:17",
+    "date_last_updated": "2017-06-11 08:20:55",
+    "deck": "Nicolas Cage stars in this feature film based on the comic Ghost Rider.",
+    "description": "<p>An old legend of the West is that of the Ghost Rider. Supposedly, when someone sold their sold to the devil, they would be transformed into the Ghost Rider, the devil's bounty hunter. The devil's most recent Ghost Rider was around 150 years ago, but disobeyed the devil by refusing to bring him the contract of San Venganza, which would give him the power of 1000 souls.</p><p>In the present, a stunt rider called Barton Blaze and his son Johnny Blaze are carnival daredevils. Johnny is currently dating a young girl his age named Roxanne Simpson. After a show one day, Johnny goes home to find that his father is dying of cancer. That night, a mysterious man appears, and claims that he can cure Johnny's cancer, in return for Johnny's soul. Thinking it's a joke, Johnny agrees. The next day, Johnny's father is healthy once more, but during the performance that day, Johnny's father dies in an accident. Johnny finds the mysterious man who he made the deal with, and claims he's cheated on their deal, but the mysterious man points out that he saved him from the cancer as promised. He says that one day he'll come back to make sure Johnny fulfils his end of the deal.</p><p>About ten years later, Johnny is a famous stunt rider, who is famous for surviving incredibly unbelievable feats. Just before he jumps a football pitch, Johnny bumps into Roxanne Simpson again, who is now a reporter. After the show, Johnny follows Roxanne and asks her out on a date. Roxanne reluctantly agrees.</p><p>Meanwhile, the demon Blackheart is on Earth, looking for the contract of San Venganza. He enlists the aid of three demons named Gressil, Abigor, and Wallow, who represent the elements of earth, air and water respectively. The mysterious man who made the deal with Johnny is revealed to be Mephistopholes (shortened to Mephisto), Blackheart's father and a high-ranking demon. Mephisto wants the contract of San Vanganza for himself, so calls on Johnny to fulfil his end of the deal.</p><p>Johnny is turned into the latest Ghost Rider, and is sent to stop Blackheart. Blackheart, Gressil, Abigor and Wallow are at a trainyard where a graveyard used to be which held the contract of San Venganza. Ghost Rider appears, and manages to use a nearby chain to kill Gressil, although Blackheart, Abigor and Wallow escape. After the fight, Ghost Rider keeps the chain, and keeps riding. He saves a civilian from a mugger, and uses his patented Penance Stare for the first time.</p><p>The next morning, Johnny wakes up in the cemetary of a church. There, a mysterious old man tells Johnny about his curse, and a bit about how to control it. Johnny also goes home and reads a few books on how he can control it. Roxanne arrives, thinking Johnny stood her up on their date. Johnny tries to explain to Roxanne about how he turned into Ghost Rider, but she naturally doesn't believe him.</p><p>Johnny is then arrested by the police, believed to be connected to the murder at the trainyard. The police take him into a cell, where Johnny turns into Ghost Rider. He then attempts to find Blackheart, but Blackheart sends Abigor to delay him. Ghost Rider chases Abigor to the top of a building, and manages to use his chains to suck him up. While Ghost Rider is chasing Abigor, Roxanne sees him and realises Johnny was telling the truth. Roxanne is part of a crowd which watches Ghost Rider leave, and Blackheart realises she is Ghost Rider's weakness.</p><p>The next day, Johnny returns to his apartment to find that Roxanne is held captive by Blackheart and he will kill her if he doesn't get the contract of San Venganza. Johnny tries the Penance Stare on Blackheart, but it doesn't work as Blackheart has no soul.</p><p>Johnny then goes to the caretaker at the cemetary, who reveals that he was Carter Slade, the last Ghost Rider, and the one who has hidden the contract all these years. Carter gives Johnny the contract, which is hidden in his hollowed-out spade. Carter can turn into Ghost Rider one last time, and rides with Johnny to the town of San Venganza. He gives Johnny a shotgun then leaves.</p><p>Johnny approaches the town, but is ambushed by Wallow. Fortunately, he is killed by Ghost Rider's hellfire, allowing him to continue on his way. Inside the town, Johnny gives the contract to Blackheart, who then attempts to kill Ghost Rider. Johnny manages to turn the shotgun Carter gave him into a \"hellfire shotgun\", but it still isn't enough to kill Blackheart. Johnny then attempts a Penance Stare, which works this time as Blackheart has 1000 souls in him.</p><p>Mephisto then tells Johnny that he has kept his side of the bargain, and is free to go. Johnny decides that he wants to keep the Ghost Rider curse so that he can use it for good.</p><p>The film ends on Johnny and Roxanne kissing at a tree where they carved their initials when they were younger.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 18,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/868846-ghostriderposter.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/868846-ghostriderposter.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/868846-ghostriderposter.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/868846-ghostriderposter.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/868846-ghostriderposter.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/868846-ghostriderposter.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/868846-ghostriderposter.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/868846-ghostriderposter.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/868846-ghostriderposter.jpg",
+        "image_tags": "All Images,Movie Posters"
+    },
+    "name": "Ghost Rider",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-60564/",
+        "id": 60564,
+        "name": "Avi Arad",
+        "site_detail_url": "https://comicvine.gamespot.com/avi-arad/4040-60564/"
+    }],
+    "rating": "PG-13",
+    "release_date": "2017-06-11 08:20:55",
+    "runtime": "114",
+    "site_detail_url": "https://comicvine.gamespot.com/ghost-rider/4025-18/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "228738393",
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-24/",
+    "box_office_revenue": "234362462",
+    "budget": "210000000",
+    "date_added": "2009-07-08 15:22:33",
+    "date_last_updated": "2018-09-01 19:02:15",
+    "deck": "The third and (at the time) final instalment in the X-Men trilogy.  Loosely based upon the Dark Phoenix Saga/Gifted storyline, new director Brett Ratner directs the epic, containing a vast array of characters from the X-Universe.",
+    "description": "<p>X-Men: The Last Stand is the sequel to X-Men: First Class, X-Men and X2: X-Men United.</p><p>The film recreates the famous Dark Phoenix Saga, and also the \"Gifted\" story arc from Astonishing X-Men, which involves a cure for mutants.</p><p>The X Men discover that Jean Grey did not perish after the escape from Stryker and the Weapon X program.</p><p>They go to investigate only to find her greatly changed.</p><p>She joins with Magneto and his brotherhood in their attack on Worthington Industries, makers of the cure for the mutant gene.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 24,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/868931-x3p_003.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/868931-x3p_003.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/868931-x3p_003.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/868931-x3p_003.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/868931-x3p_003.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/868931-x3p_003.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/868931-x3p_003.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/868931-x3p_003.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/868931-x3p_003.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "X-Men: The Last Stand",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-60564/",
+        "id": 60564,
+        "name": "Avi Arad",
+        "site_detail_url": "https://comicvine.gamespot.com/avi-arad/4040-60564/"
+    }],
+    "rating": "PG-13",
+    "release_date": "2018-09-01 19:02:15",
+    "runtime": "104",
+    "site_detail_url": "https://comicvine.gamespot.com/x-men-the-last-stand/4025-24/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-5453/",
+        "id": 5453,
+        "name": "20th Century Fox",
+        "site_detail_url": "https://comicvine.gamespot.com/20th-century-fox/4010-5453/"
+    }],
+    "total_revenue": "459359555",
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-65489/",
+        "id": 65489,
+        "name": "Zak Penn",
+        "site_detail_url": "https://comicvine.gamespot.com/zak-penn/4040-65489/"
+    }]
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-30/",
+    "box_office_revenue": "60000000",
+    "budget": "45000000",
+    "date_added": "2009-07-08 16:32:06",
+    "date_last_updated": "2018-03-04 19:46:11",
+    "deck": "First film in the Blade trilogy.",
+    "description": "<p>In 1998, a Blade movie was made by New Line Cinema and directed by Stephen Norrington. Wesley Snipes played Blade in the film (he was originally going to be in a <a data-ref-id=\"4005-1477\" href=\"/black-panther/4005-1477/\">Black Panther</a> film but it was cancelled). In the film, Blade was teamed up with <a data-ref-id=\"4005-39241\" href=\"/abraham-whistler/4005-39241/\">Whistler</a> to try to find and kill <a data-ref-id=\"4005-13789\" href=\"/deacon-frost/4005-13789/\">Deacon Frost</a> (played by Stephen Dorff) trying to resurrect La Magra the Blood God.</p><h2>Synopsis</h2><p>While trying to look for clues on Frost, he encountered his lackey Quinn who he left to burn after a vampire rave. He was still alive, and attacked the coroners inspecting him. He also bit a woman named Karen Jenson. Blade feels sorry for what happened to her, and decides to take her back to his hideout to try and help her before she turns.</p><p>Blade also discovers that Frost needs him for the ceremony to resurrect the Blood God. After returning to his hideout, he finds Whistler is nearly dead and Karen taken hostage by Frost's men. Whistler then asked him to kill him before he turns into a vampire, Blade regrets at first but Whistler forces him to do so. So Blade walks away as Whistler kill himself. Blade then prepares for his battle with Frost, and makes his way to his hideout. After killing many familiars and vampires, he discovers his mother was still alive but now a vampire, and it was Deacon who bit her. They then knock him out and take him to the Temple of Eternal Night. He is locked into a device where his wrists are cut and his blood drips into a hole in the floor where it seeps down the to the sacrificed pure bloods and eventually Frost. Karen then arrives to free him and lets him suck her blood so he can regain his strength. His mother arrives to kill but he is able to stop her, she then says \"are you going to kill your mother\". To which he says, \"I must release you\" and kills her. In anger, he grabs his clothes and goes after Frost.</p><p>He finally kills Quinn and all of the other enemy soldiers, and finally faces Frost. Blade is able to slice off his arm and and cut him in half. but he discovers he is still alive when he reattaches his body and grows a new arm. Frost begins to beat Blade until he finds the EDTA he brought with him, and throws all of them into Frost which causes him to explode. He and Karen then leave the temple and she asks she going to make more of the antidote to cure him. But Blade says to keep and just make him a new serum to stop his thirsts. He is then seen in Russia killing a vampire as the film ends.</p><h2>Influence on Comics</h2><p>The movie took many liberties with character's mythology. The character's only \"powers\" in comics were that he was immune to vampire bites and had a prolonged lifespan. In the film, he is born with all the vampire strengths and none of their weaknesses. This is more similar to <a data-ref-id=\"4025-784\" href=\"/vampire-hunter-d/4025-784/\">Vampire Hunter D</a>, a series of novels that began publication in Japan in 1983, and the first animated movie followed in 85. A year after the Blade film's release, Marvel Comics gave Blade the powers of the daywalker in <a data-ref-id=\"4000-68485\" href=\"/peter-parker-spider-man-blood-feud/4000-68485/\"><b>Peter Parker: Spider-Man #8 - Blood Feud</b></a>. Blade gains these powers by being bitten by <a data-ref-id=\"4005-6722\" href=\"/morbius/4005-6722/\">Morbius the Living Vampire</a>. He also started wearing sunglasses and a black trench coat. His wooden stakes turned to steel, and he starting carrying other side weapons seen in the film.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 30,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2615005-bladeposter.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2615005-bladeposter.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2615005-bladeposter.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2615005-bladeposter.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2615005-bladeposter.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2615005-bladeposter.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2615005-bladeposter.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2615005-bladeposter.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/2615005-bladeposter.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Blade",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-96344/",
+        "id": 96344,
+        "name": "Wesley Snipes",
+        "site_detail_url": "https://comicvine.gamespot.com/wesley-snipes/4040-96344/"
+    }],
+    "rating": "R",
+    "release_date": "2018-03-04 19:46:11",
+    "runtime": "120",
+    "site_detail_url": "https://comicvine.gamespot.com/blade/4025-30/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "131183530",
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-46778/",
+        "id": 46778,
+        "name": "David S. Goyer",
+        "site_detail_url": "https://comicvine.gamespot.com/david-s-goyer/4040-46778/"
+    }]
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-32/",
+    "box_office_revenue": null,
+    "budget": "54000000",
+    "date_added": "2009-07-08 16:35:30",
+    "date_last_updated": "2018-03-04 19:46:24",
+    "deck": "The second film in the Blade trilogy.",
+    "description": "<p> Blade teams-up with a vampire group named Bloodpack to take on a new threat. </p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 32,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/869075-blade_ii_movie.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/869075-blade_ii_movie.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/869075-blade_ii_movie.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/869075-blade_ii_movie.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/869075-blade_ii_movie.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/869075-blade_ii_movie.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/869075-blade_ii_movie.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/869075-blade_ii_movie.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/869075-blade_ii_movie.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Blade II",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-96344/",
+        "id": 96344,
+        "name": "Wesley Snipes",
+        "site_detail_url": "https://comicvine.gamespot.com/wesley-snipes/4040-96344/"
+    }],
+    "rating": "R",
+    "release_date": "2018-03-04 19:46:24",
+    "runtime": "117",
+    "site_detail_url": "https://comicvine.gamespot.com/blade-ii/4025-32/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "155010032",
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-46778/",
+        "id": 46778,
+        "name": "David S. Goyer",
+        "site_detail_url": "https://comicvine.gamespot.com/david-s-goyer/4040-46778/"
+    }]
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-33/",
+    "box_office_revenue": "52397389",
+    "budget": "65000000",
+    "date_added": "2009-07-08 16:38:46",
+    "date_last_updated": "2018-05-14 00:30:00",
+    "deck": "The final film in the Blade trilogy.",
+    "description": "<p>Blade team up's with the Nightsalkers, A group of vampire hunters, to stop the resurrection of Dracula.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 33,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/869077-blade_trinity_poster.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/869077-blade_trinity_poster.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/869077-blade_trinity_poster.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/869077-blade_trinity_poster.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/869077-blade_trinity_poster.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/869077-blade_trinity_poster.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/869077-blade_trinity_poster.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/869077-blade_trinity_poster.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/869077-blade_trinity_poster.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Blade: Trinity",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-46778/",
+        "id": 46778,
+        "name": "David S. Goyer",
+        "site_detail_url": "https://comicvine.gamespot.com/david-s-goyer/4040-46778/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-96344/",
+        "id": 96344,
+        "name": "Wesley Snipes",
+        "site_detail_url": "https://comicvine.gamespot.com/wesley-snipes/4040-96344/"
+    }],
+    "rating": "R",
+    "release_date": "2018-05-14 00:30:00",
+    "runtime": "113",
+    "site_detail_url": "https://comicvine.gamespot.com/blade-trinity/4025-33/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "128905366",
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-46778/",
+        "id": 46778,
+        "name": "David S. Goyer",
+        "site_detail_url": "https://comicvine.gamespot.com/david-s-goyer/4040-46778/"
+    }]
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-42/",
+    "box_office_revenue": "373585825",
+    "budget": "200000000",
+    "date_added": "2009-07-08 17:18:46",
+    "date_last_updated": "2017-06-11 08:30:39",
+    "deck": "Spider-Man returns in this smash hit sequel and has to face off against the deadly genius Doc Ock as well as his own sense of morality and responsibility.",
+    "description": "<p>After the traumatic events of the previous film, Spider-man (Tobey Maguire) continues his duties as the Spectacular Spider-man whilst still trying to form a relationship with the beautiful Mary Jane Watson. (Kirsten Dunst) Peter starts to learn what he must sacrifice in order to fulfill his duties as Spider-man, as his attendence at college starts slipping.  <br />Peters lecturer Dr. Curt Conners (Dylan Baker) organises for his dear friend and former colleague Dr. Otto Octavius (Alfred Molina) to meet with Peter in terms of teaching purposes as well as hopes to teach some dicipline. Peter joins Dr. Octavius and his wife where the Doctor explains his profound love for his wife and the promising results his new experiment with tridium may create. <br />Meanwhile, Mary Jane is audtioning for music productions just off broadway with high hopes for Peter to watch her. When Peters responsibility of Spider-man rears its head, he misses Mary Janes shows and in the process she falls for John Jameson (Daniel Gillies) the son of Peters harsh and arrogant boss of the daily bugle; J Jonah Jameson. (J. K. Simmons) While his best friend Harry Osborn (James Franco) starts to obsess over the assumption Spider-man killed his father.  <br /> <br />Peter is left questioning whether or his responsibilites of being Spider-man is worth the trouble its causing his alter ego but reminds himself of the guilt of his uncle Ben's death. The reveal of Dr. Octavius's new experiment comes to the light of day as multiple scientists, Peter and Harry go to witness the new event. Since Harry has taken over his fathers business of Oscorp he supplies the tridium for the experiment. The doctor reveals his new equipment in order to carry out the experiment, a set of 4 mechanical arms which attach to his body. He points out a microchip that keeps him in control of them and not vice versa. The experiment starts to lose control as the tridium is added causing beams of energy to reach out of bounds and smash the ceiling and walls. Panic spreads as Harry demands for the Doctor to stop it all, but he beleives he has it all under control. When a beam of energy strikes the Doctors wife and glass kills her, Spider-Man swoops in to save Harry from impending death. Distraught that his wife has been killed, Otto turns around only to recieve an energy beam that fuses the arms to his body and fries the microchip. Spider-man tears out the energy source and stops the experiment as everyone is escorted to Hospital. <br /> <br />Before surgery, Otto awakes in a frenzy and kills the orderlys with his 'Tentacles' and Doctor Octopus is born.  <br />Peter and his aunt May (Rosemary Harris) go to the bank hoping for a loan to aid them with thier financial difficulties. Doc Ock breaks into the bank by force and attempts to steal all the money in order to Re-create his experiment in an abondoned warehouse. In fear that anyone could be seriously injured including his aunt, Peter changes into Spider-man and battles Ock. Mid-battle he realises his powers aren't working properly, this gives Ock the chance to take his aunt may and climb a building. After another battle Spider-man saves his aunt, but Ock gets away.  <br /> <br />Next, Peter is heartbroken after he makes it to one of Mary Janes shows and she reveals she's engaged to John Jameson. This causes Peters powers to malfunction yet again and continue to question whether being Spider-Man is worth it. Heartbroken and unsure of himself, he literally bins the suit and tries to focus on his social life instead. Meanwhile, Doc Ock invades Oscorp and attacks Harry Osborn in hopes of stealing the vital Tridium he can supply. Upon realisation he has none, Harry strikes a deal that if Doc Ock can bring Spider-Man to him alive, he will gather enough Tridium as a reward. Harry gives him Peter Parkers name as he knows he takes multiple Spider-Man photos for the Daily Bugle. After Ock has left, Harry realises what he has just sent after his best friend.  <br /> <br />Because of Peter's decision to give up Spider-Man, he gains a newfound confidence. He decides to share his secret identity with Mary Jane. A passionate talk at a cafe' is disturbed as Doc Ock breaks in stealing Mary Jane away. This forces Peter to pick up his costume (Now as the Daily Bugle, much to J Jonah Jamesons discontent) and chase Ock. They meet on a train and fight an incredibly grueling battle. Ock destroys the Train controls and escapes leaving Spider-Man to save everyone on board. Using his webs, he stops the train but passes out due to exhaustion. He is unmasked by the train passengers who are shocked to see he is only a young man. Ock returns and sucker punches Spidey only to whisk him away.  <br /> <br />At Oscorp, Spidey is dropped off for Harry and lays unconscious upon a table, Ock leaves with his Tridium. Harry, wielding a knife unmasked Spidey only to learn he is actually his best friend Peter. Peter wakes up and informs Harry theres no time to explain, Mary janes been kidnapped. Harry, shocked lets him go. As Peter goes off as Spider-Man in search for Ock, Harry hallucinates and see's his father talking to him, pointing him to his hidden laboratory. Harry walks through to discover the Goblin Serum, glider and masks.  <br />When Spidey finds Ock, the experiment has begun. The final battle insues which results in Spidey's mask being torn, revealing his face. Mary Jane notices this during the fight. Ock is hit hard as the experiment starts to lose control. Peter reasons with Ock and begs him to stop it, he reveals it can't be stopped only drowned. As Spidey saves Mary Jane, Ock tears down the experiment and the whole warehouse with it. Stopping the reaction, but drowning himself in the process.  <br /> <br />Without a chance to talk, Spidey lets Mary Jane go, and run into her fiancee's arms.  <br />The next day Peter refuses to go to Mary Janes wedding but is suprised as she shows up at his flat. After sharing a kiss, its revealed she left John for Peter. Unfortunately for Peter, Police sirens are heard, looking at Mary Jane she smiles and utters the famous line 'Go Get 'em Tiger'. <br /> <br />The Film ends as Spidey swings from his flat window with Mary Jane Looking on. </p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 42,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/869113-spiderman2_2.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/869113-spiderman2_2.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/869113-spiderman2_2.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/869113-spiderman2_2.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/869113-spiderman2_2.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/869113-spiderman2_2.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/869113-spiderman2_2.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/869113-spiderman2_2.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/869113-spiderman2_2.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Spider-Man 2",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-60564/",
+        "id": 60564,
+        "name": "Avi Arad",
+        "site_detail_url": "https://comicvine.gamespot.com/avi-arad/4040-60564/"
+    }],
+    "rating": "PG-13",
+    "release_date": "2017-06-11 08:30:39",
+    "runtime": "127",
+    "site_detail_url": "https://comicvine.gamespot.com/spider-man-2/4025-42/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "783766341",
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-45/",
+    "box_office_revenue": "263427551",
+    "budget": "150000000",
+    "date_added": "2009-07-08 17:30:45",
+    "date_last_updated": "2016-10-07 19:20:45",
+    "deck": "The reboot of the HULK movie. This film takes place 5 years after Banner was irradiated and became the Hulk. It's the second Marvel Cinematic Universe movie.",
+    "description": "<p>5 years ago, Bruce Banner, a military scientist, attempted to recreate the super soldier serum. Unfortunately, he is now on the run from the U.S. military, who want to capture the Hulk and use him as a weapon. At the moment, Bruce is living in Brazil, and communicating over the internet with someone known only as \"Mr. Blue\", in the hopes of a cure for his condition. When not looking for a cure, he works at a bottling plant.</p><p>Unfortunately for Bruce, some of his gamma-infected blood falls into a bottle at work one day, which kills the old man who ends up drinking the bottle. General \"Thunderbolt\" Ross deduces that Banner must be at the bottling plant, so he sends in a special team to get him, led by a Russian named Emil Blonsky. When the team finds Bruce, he ends up having to transform to the Hulk to escape. All of the soldiers except Blonsky are killed.</p><p>In order to get more research for Mr. Blue, Bruce has to return to his university in Virginia, where he first did his research. While he's there, he accidentally bumps into Betty Ross, who he was dating a few years ago. On the day that Bruce is ready to leave the university, he is attacked by the army once more, who want the Hulk. With them is Blonsky, who has taken an experimental super soldier serum and is now faster and stronger than before. Despite this, the Hulk still manages to stop him.</p><p>Betty and Bruce go on the run, and end up going to New York to meet Mr. Blue. Mr. Blue turns out to be a scientist named Samuel Sterns, who believes he has made a successful cure. They manage to get Bruce to transform to the Hulk, where the cure is tested and is successful. Sterns then reveals that he synthesized a sample of Bruce's blood that was sent to him, which he intends to use to help evolve mankind. Bruce is appalled by this and tries to convince him to destroy it, but the Army arrives and Bruce is captured.</p><p>When the Army leaves Sterns, Emil Blonsky bursts in and demands the gamma treatment that Sterns has made from Bruce's blood, as he wants the power of the Hulk. Sterns is reluctant at first, as the experimental super-soldier serum combined with the gamma treatment could mutate him in unexpected ways, but after Blonsky starts threatening him Sterns gives him the treatment. As Sterns predicted, the treatment mutates him, into something with the Hulk's strength but Blonsky's intelligence. As he leaves, Blonsky hits Sterns across the room, which makes some of the gamma treatment drip into Sterns' head.</p><p>Bruce convinces General Ross that he is the only person who can stop Blonsky, and is let out of the helicopter they are in. He falls to the ground and manages to transform to the Hulk just in time, as the cure wasn't completely perfect. The Hulk and Blonsky then battle, and the Hulk almost loses, before managing to get the upper hand. He then flees.</p><p>Thirty-one days later, Bruce is attempting to gain control of his transformations willingly. At the same time as he attempts this, General Ross is told by Tony Stark that a team is being put together.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 45,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/869116-hulk_poster.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/869116-hulk_poster.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/869116-hulk_poster.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/869116-hulk_poster.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/869116-hulk_poster.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/869116-hulk_poster.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/869116-hulk_poster.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/869116-hulk_poster.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/869116-hulk_poster.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "The Incredible Hulk",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-40467/",
+        "id": 40467,
+        "name": "Stan Lee",
+        "site_detail_url": "https://comicvine.gamespot.com/stan-lee/4040-40467/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-60564/",
+        "id": 60564,
+        "name": "Avi Arad",
+        "site_detail_url": "https://comicvine.gamespot.com/avi-arad/4040-60564/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-74372/",
+        "id": 74372,
+        "name": "Kevin Feige",
+        "site_detail_url": "https://comicvine.gamespot.com/kevin-feige/4040-74372/"
+    }],
+    "rating": "PG-13",
+    "release_date": "2016-10-07 19:20:45",
+    "runtime": "112",
+    "site_detail_url": "https://comicvine.gamespot.com/the-incredible-hulk/4025-45/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": "349183430",
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-58/",
+    "box_office_revenue": "33682273",
+    "budget": "15500000",
+    "date_added": "2009-07-09 13:42:49",
+    "date_last_updated": "2018-10-05 22:53:20",
+    "deck": "The 2004 Punisher film.",
+    "description": "<p>The film opens with Bobby Saint and Mickey Duka meet with their contact, European arms dealer Otto Krieg, during an arms deal at the Tampa, Florida seaport . The deal soon goes south as the FBI raid the deal and both Bobby and Otto are killed in the ensuing attack. Mickey is arrested on the spot but it is soon revealed that Otto Krieg was an undercover FBI agent named, Frank Castle. A former military and war vet. The sting operation was Castle's final assignment and decides to take an early retirement from the field and decides to celebrate at his father's resort in Puerto Rico. It is soon revealed at the funeral of Bobby Saint that is father is a well known crime lord, Howard Saint. Howard and his right-hand man, Quentin Glass, bribe the FBI for confidential information about Otto Krieg and find his true identity. At Bobby's funeral, Howard learns Frank is in Puerto Rico before leaving for London afterwards.. Howard orders Frank murdered, but his conniving wife, Livia, demands that they kill Frank's entire family as well to \"settle the score\".</p><p>in Puerto Rico, Saint's men, along with Bobby's twin brother, Tommy attack Castle's family and kill everyone at the home and Frank is shot and blown off the pier and left to drown in the ocean by Glass. He however, washes up on shore alive and finds a black shirt that his son was making him, which now has the form of a skull on the front of the shirt. Later, o nce his injuries are fully healed, Frank returns to Tampa and takes refuge in an old tenement building where three young outcasts named, Dave, Bumpo and Joan live. Frank kidnaps Mickey Duka and at first frightens him into giving him information about the Saints, but Mickey, who hates the Saints, willingly joins Frank as a mole. Frank begins his mission of revenge after learning that the police and the FBI have been bribed by the Saints to close the investigation of his family's murder. In the process, Frank sabotages Saint's money-laundering business and severs Saint's partnership with the Cuban mobsters, the Toro Brothers, and starts tailing Livia and Quentin and learns that Quentin is gay and has been carrying on a secret affair unknown to everyone but Livia.</p><p>Frank begins to set up photos and other types of clues to make it look like Quentin is having an affair with Livia, which starts to succeed. However, Tommy discovers that Castle is in fact alive and starts sending his various agents to kill him for good. He first sends a guitar player named Harry Heck who, after a brief car chase, is killed when Frank shoots a knife into Heck's throat. The second is <a data-ref-id=\"4005-41663\" href=\"/russian/4005-41663/\">the Russian</a>, a behemoth who mercilessly beats Castle in a brutal fight, but is defeated when Frank throws boiling oil in his face, which blinds him long enough for Frank to throw him down the staircase, breaking his neck. Quentin and his men eventually seek out Castle themselves and attack Frank's friends going as far as pulling out all of Dave's piercings before Castle eventually kills them all off. Howard, unaware that Quentin is gay, and believing Livia to be capable of cheating on him, kills them both personally, neither of them knowing why.</p><p>Frank then attacks Howard's headquarters, the downtown Tampa nightclub, <i>\"Saints and Sinners\"</i>, killing Howard's henchmen. He then finds John, whom he leaves to die by trapping him with an eight-pound, trip-wire activated grenade placed in his outstretched hand. Eventually, John's strength gives way and the grenade explodes, killing him as Howard hears his son crying for help. Frank wounds Howard with a pistol when Howard attempts to shoot him in the parking lot of the nightclub. Howard is then tied to a slow-moving car in the club's parking lot, but not before he reveals to Howard that Quentin and Livia were not having an affair and that he had set everyone up to see his family in both aspects die around him the same way Saint did. As Howard cries out over being tricked by Castle, several hidden bombs go off, and the destruction and wreckage culminates in the shape of Frank's iconic skull.</p><p>Not long afterwards, Frank prepares to commit suicide but after seeing a vision of his wife and son decides not to. He leaves a countless amount of cash left over from the Saint's estate to Dave, Bumpo and Joan before leaving. The final scene is Frank Castle looking over the ocean saying that he will punish crime and that Frank Castle is gone, call him: \"The Punisher\"</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 58,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/870471-punisher_ver2.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/870471-punisher_ver2.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/870471-punisher_ver2.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/870471-punisher_ver2.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/870471-punisher_ver2.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/870471-punisher_ver2.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/870471-punisher_ver2.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/870471-punisher_ver2.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/870471-punisher_ver2.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "The Punisher",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-60564/",
+        "id": 60564,
+        "name": "Avi Arad",
+        "site_detail_url": "https://comicvine.gamespot.com/avi-arad/4040-60564/"
+    }],
+    "rating": "4",
+    "release_date": "2018-10-05 22:53:20",
+    "runtime": "124",
+    "site_detail_url": "https://comicvine.gamespot.com/the-punisher/4025-58/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-7942/",
+        "id": 7942,
+        "name": "Lionsgate",
+        "site_detail_url": "https://comicvine.gamespot.com/lionsgate/4010-7942/"
+    }],
+    "total_revenue": "54700105",
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-131/",
+    "box_office_revenue": null,
+    "budget": null,
+    "date_added": "2009-07-09 20:03:02",
+    "date_last_updated": "2017-06-29 14:21:04",
+    "deck": "An animated film based on the Ultimates comics. It was released directly to DVD. After a few decades of Captain America's disappearance, he was finally defrosted and returned to fight the Artari aliens with Thor, Iron Man, Wasp, Hulk, Giant Man, and the Black Widow.",
+    "description": "<h2> Full Plot </h2>Starting during the final days during World War II, a elite group of soldiers lead by Steve Rogers, a.k.a Captain America attacked a Nazi strong hold controlled by the human/atari hybrid, Herr Kleiser, who has built a destructive missle he intends to launch at Wasington DC. During a hard battle wtih Kleiser and his men, Cap is unable to keep the missle from launching but instead hitches a ride on it and lest Kleiser's castle self destruct around him. Captain America is able to disarm the missle over the artic but falls into the sea as the missle breaks up. During is final thoughts, he thinks of his girlfriend before disappearing in the deep.   <br /><br />60 years later, Cap's body is found frozen in ice by Betty Ross and Bruce Banner who have been assigned by SHIELD to recover Captain America's body and create a new super soldier program in the planet's effort to defeat the Atari race. A few days later after recovering Cap's body, Nick Fury, the head of SHIELD is having the final pieces of a defense satilite that will help fight against the Atari but it's destroyed just after going online by the alien race. Angry over the situation and not wanting to wait on the super soldier program, the World Council tells Fury to activate Project Avengers. A group composed to Earth's Mightiest Super heroes, something Fury isn't the most keen on. He starts by seeking out Janet Van Dyne and Dr. Hank Pym. While Jan doesn't have a problem, Hank has had it with SHIELD constantly screwing him over but Fury needs him non the less. Hank decides to accept Fury's offer and then shows his new ability to grow to giant size to show that he does a lot more than talk to ants as a super hero these days.<br />  Meanwhile, Fury sends the Black Widow after Tony Stark to help convince him to have Iron Man join the group but Stark isn't too thrilled with having Iron Man join the team, saying he works alone. However, he's more than happy to help SHIELD out with some new weapon designs to help in his little war with the Atari. Not long afterwards, Bruce Banner and his group of scientists are working on Captain America's body which has now been defrosted. However, soon a pulse is found and Captain America springs to life but is disorented as a result of his 60 years and attacks all the SHIELD agents that try to subdue him. Cap eventually breaks outside and sees that he's in New York but  not his time, he turns to see Fury and asks: \"Did we win?\" Fury answers: \"We did son, we did.\" The next couple of days, Cap is filled in about what happened since he's been gone and that Fury wants him to lead the Avengers. While Cap is a bit hesitant, he soon agrees and learns about each member of his new team and about the truth of Bruce Banner who is secretly the Hulk.    <br /><br />Steve Rogers is filled in about what the world around him and he and Fury even go out to recruit, the Norse god of Thunder, Thor who is helping with some political rallies. During a drink at a bar, Thor openly rejects Fury's officer but seems to know Captain America better than he should after all these years. Not long after that, Steve decides to seek out his old girlfriend, who has now married James Barnes, his old partner, Bucky from the war. James tells Steve that it was hard for her all these years he was gone but Steve let's James know that he is happy that she married him. He then departs with her looking out the window.  <br /><br />A couple days later after starting to train with the Avengers, the Atari attack New York and the Avengers spring into action, including Iron Man who tries to help them out. During the battle, Iron Man's armor is damaged and he is revealed to be Tony Stark, much to Nick Fury's displeasure. The Avengers get the upper hand on the Atari but they soon attack a few days later and Fury, needing his new super soldiers orders Bruce Banner to move the program along but it's revealed that Banner never intended to use the super soldier program from the government but in an effort to cure himself but the experiment goes wrong and Banner turns into the Hulk again just as the Atari attack their base. Both Iron Man and Thor join the Avengers in fighting the Atari but even their numbers are still not enough against the alien warlords. Soon, the Hulk ends up fighting the Avengers during the battle until Betty turns towards the Atari and in doing so, starts destroying their ships with ease, leaving the Avengers to push back and defeat the Atari who quickly return to space defeated.  <br /><br />The next day, Fury congradulates the Avengers on a job well done but promises them that the Atari are hurt but more of their pride than their numbers. They'll be back and they will stop them.  Not long after, Steve finally sees his old girlfriend, who he greets with a hug, saying she has missed him but knows that he always was meant for something more and Steve knods his head. Now with the world in danger, it's going to take Earth's Mightest to stop threats both wordly and outworldly, hence, the Avengers Assemble.      <br /> <br /><h2>Trailer</h2><div class=\"js-item-cage\"> <center></center></div>      <p>   <br />  <br /></p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 131,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/871073-ultimateavengers.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/871073-ultimateavengers.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/871073-ultimateavengers.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/871073-ultimateavengers.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/871073-ultimateavengers.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/871073-ultimateavengers.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/871073-ultimateavengers.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/871073-ultimateavengers.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/871073-ultimateavengers.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Ultimate Avengers",
+    "producers": null,
+    "rating": "3",
+    "release_date": "2017-06-29 14:21:04",
+    "runtime": "72",
+    "site_detail_url": "https://comicvine.gamespot.com/ultimate-avengers/4025-131/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": null,
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-151/",
+    "box_office_revenue": null,
+    "budget": null,
+    "date_added": "2009-07-10 05:18:30",
+    "date_last_updated": "2017-06-29 14:21:15",
+    "deck": "The sequel to Ultimate Avengers. This movie is also based on the Ultimates comics.",
+    "description": "<h2>   Full Plot</h2>Picking up a few months after the Avengers battle the Satari, deep in the heart of Africa, T'Challa, the Prince of Wakanda, returns from the outside world to learn the kingdom is being attacked by Herr Kleiser, the alien shape-shifter who battled Captain America during World War II is still alive. T'karak, T' Challa's father dons the garb of the Black Panther and the two battle Kleiser and his Santari forces in combat. The battle doesn't go well and T'Challa is almost killed by Kleiser until T'kara uses the full powers of the Black Panther and saves his son but loses his life in the process. T'Challa is named the new King of Wakanda and learns that the Santari are seeking Wakanda's store of vibranium, which they have kept in secret from many years after a Santari batlte ship crashed langed in Wakanda decades before, the metal the Santari use the metal to manufacture their ships and weapons. After becoming King and assuming the alias of the Black Panther, T' Challa seeks the aid of Captain America. General Nick Fury of SHIELD and orders the Ultimate Avengers to assemble, with the exception of Thor (who is unavailable and having it out with his father, Odin) and the Hulk (his alter ego Bruce Banner is being kept under surveillance and tortured by his captives ). <p>Meanwhile, Hank Pym and Janet are having problems as Hank continues to push his powers to his limits and keeps blaming Jan for his failures for his experiments and lack of being a better super hero. The Avengers head to Wakanda after learning that Herr Kleiser is the Santari's own super soldier and probably can't be killed. During a misunderstanding with the Wakanda Ruling Council in which the Ultimate Avengers are attacked by the Wakandan soldiers, the Wasp being injured and Captain America's shield being stolen, the team rally and together with Thor who has decided to stand by his mortal friends despite his father's wishes and comes to battle the alien Santari. Back in New York, Banner deduces that gamma radiation will weaken vibranium after seeing his earlier attack on the alien warloards and sends Betty to Wakanda with a gamma-ray projector. However, Banner's captives continue to torture him until the Santari arrive and try to kill Banner, who soon \"hulks out\" and attacks his attackers and leaves the base. The Wakanda Council continues to igonore the Avengers help using the crashed Santari technology to keep their forces back but Kleiser soon discovers the truth and they deactivate the ship, causing their defenses to drop. In doing so, the Santari Base Ship approaches the planet and encases the country in an energy shield while Captain America and the Black Panther battle Kleiser. Below in Wakanda with the gamma ray being used by the Avengersthe Santari are weakened, and Iron Man (using his War Machine Armor) and Giant Man(Henry Pym) manage to destroy the core of an attacking Santari vessel. Giant-Man, however, is fatally injured and dies. Captain America and the Black Panther who are unable to truly kill Kleiser instead bury him in liquid vibranium, leaving him trapped and unable to regnerate and bury him deep within the palace, never to be heard from again. Later, the team departs with the thanks of the Black Panther, and on returning learn that Banner has become the Hulk and escape. They later hold a funeral for Hank Pym and the Black Widow and Captain America finally kiss and begin a relationship together.</p>     <br /> <br /><br /><div class=\"js-item-cage\"> <center></center></div> <p>  </p> <p><br /></p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 151,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/871469-ua2.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/871469-ua2.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/871469-ua2.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/871469-ua2.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/871469-ua2.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/871469-ua2.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/871469-ua2.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/871469-ua2.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/871469-ua2.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Ultimate Avengers 2",
+    "producers": null,
+    "rating": "3",
+    "release_date": "2017-06-29 14:21:15",
+    "runtime": "74",
+    "site_detail_url": "https://comicvine.gamespot.com/ultimate-avengers-2/4025-151/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": null,
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-186/",
+    "box_office_revenue": null,
+    "budget": null,
+    "date_added": "2009-07-10 17:11:00",
+    "date_last_updated": "2018-02-21 19:21:14",
+    "deck": "The Hulk has been cutting straight through the Canadian wilderness, and the Canadian Government decides to send Wolverine to stop him.",
+    "description": "<p> The Incredible <a data-ref-id=\"4005-2267\" href=\"/hulk/4005-2267/\">      Hulk</a> takes on <a data-ref-id=\"4005-1440\" href=\"/wolverine/4005-1440/\">     Wolverine</a>.</p>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 186,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/874045-hulk_vs_2009_.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/874045-hulk_vs_2009_.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/874045-hulk_vs_2009_.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/874045-hulk_vs_2009_.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/874045-hulk_vs_2009_.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/874045-hulk_vs_2009_.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/874045-hulk_vs_2009_.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/874045-hulk_vs_2009_.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/874045-hulk_vs_2009_.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Hulk vs. Wolverine",
+    "producers": null,
+    "rating": "PG-13",
+    "release_date": "2018-02-21 19:21:14",
+    "runtime": "37",
+    "site_detail_url": "https://comicvine.gamespot.com/hulk-vs-wolverine/4025-186/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }],
+    "total_revenue": null,
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-40897/",
+        "id": 40897,
+        "name": "Christopher Yost",
+        "site_detail_url": "https://comicvine.gamespot.com/christopher-yost/4040-40897/"
+    }]
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-213/",
+    "box_office_revenue": null,
+    "budget": null,
+    "date_added": "2009-07-10 22:31:42",
+    "date_last_updated": "2017-06-29 14:19:16",
+    "deck": "When a group of greedy land developers and criminals begin to cut down the trees and pollute the swamps surrounding the Nexus of All Realities, Man-Thing goes on a murderous rampage, killing all involved or who stand in his way.",
+    "description": null,
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 213,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2374189-man_thing_poster.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2374189-man_thing_poster.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2374189-man_thing_poster.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2374189-man_thing_poster.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2374189-man_thing_poster.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2374189-man_thing_poster.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2374189-man_thing_poster.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2374189-man_thing_poster.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/2374189-man_thing_poster.jpg",
+        "image_tags": "All Images"
+    },
+    "name": "Man-Thing",
+    "producers": null,
+    "rating": "4",
+    "release_date": "2017-06-29 14:19:16",
+    "runtime": "97",
+    "site_detail_url": "https://comicvine.gamespot.com/man-thing/4025-213/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-7942/",
+        "id": 7942,
+        "name": "Lionsgate",
+        "site_detail_url": "https://comicvine.gamespot.com/lionsgate/4010-7942/"
+    }],
+    "total_revenue": null,
+    "writers": null
+}, {
+    "api_detail_url": "https://comicvine.gamespot.com/api/movie/4025-733/",
+    "box_office_revenue": "623933331",
+    "budget": "$200,000,000",
+    "date_added": "2009-11-30 15:25:40",
+    "date_last_updated": "2019-05-03 19:12:32",
+    "deck": "Everyone now knows Tony Stark is Iron Man, and now Tony is being pressured by the government to share the schematics of the Iron Man armor, for military use. Paranoid of the fact that the schematics could fall into the wrong hands, Tony hides the secrets of the Iron Man.",
+    "description": "<p>A few months after revealing to the public that he is Iron Man, Tony is being confronted by the government to hand over the technology of the suit to be used by what they consider a more responsible user. Tony defends his technology from the government and in the meantime running the Stark Expo, an event showing the world new advances in technology. What he is keeping secret is that the palladium in Tony's Arc Reactor is slowly killing him. He has made attempts to find an alternative element to power the Reactor, but to no avail. Tony begins to gradually set affairs in order by making Pepper CEO of the company and is replaced by Natalie Rushman, as an assistant for Stark.</p><p>While racing his car in the Circuit De Monaco, Tony is attacked by Ivan Vanko, who slices Tony's car in half with his energized whips. With quick thinking and the help Pepper, Happy and a portable suit, Tony defeats Vanko and he is taken in. Tony realizes that Vanko has an Arc Reactor of his own, so he confronts Vanko asking where he obtained this technology, and Vanko replies it was a design made by his father, Anton Vanko. Vanko then threatens that soon the Stark name and his world wil crumble around him. He also knows that the Arc Reactor is killing him. after talking with Tony, Vanko manages to fake his death and go into hiding, working for Tony's rival, Justin Hammer, to create a unit of Iron Men drones.</p><p>As Tony feels the end coming towards him, he begins a self destructive path. He arranges a party and he gets drunk in his Iron Man suit, firing pulse blasts at tossed objects for target practice. Jim Rhodes arrives and realizes that Tony is endangering all of the people at the party, due to his recklessness. Rhodes dons the Mark II suit and cofronts Tony, evacuating the house and get into a brawl that results in a large amount of Tony's home being wrecked. After the fight, Rhodes flies off to the military with the Mark II suit.</p><p>Tony is later found by Nick Fury and admits that he was being monitored by one of his agents, Natalie Rushman who is actually Natasha Romanoff. Fury tells Tony that his father, Howard Stark was one of the founders of S.H.I.E.L.D. and used to work with Ivan's father, who wanted to use the Arc Reactor for personal gain ( the reason that Vanko is after the Stark name is because of what happened to his father). Fury also provides Tony with some old videos of his father to point him the right direction.</p><p>After Tony tries to reconcile with Pepper about his behavior, He discovers a secret formula in a diarama of the Stark Expo, finding a new element. Tony sets up a device to harness its power and manages to use it as an alternative source of power for a new Arc Reactor. Tony is contacted by Vanko, revealing that he is still alive, and plans to attack at the Stark Expo.</p><p>When Tony arrives he realizes that Hammer and Vanko have made a garrison of Robotic drones based on his design as well as a new, upgraded Mark II suit being used by Rhodes. Vanko overrides the drones and Rhodes' suit to attack Tony, leading to a pursuit over the city. With the help of Pepper, Natasha, and Happy, they let Rhodes regain control and help Tony fight off the drones. Vanko arrives in an improved suit of his own and fights the both of them. Tony and Rhodes work together to take down Vanko and in a last ditch effort to kill Stark, Vanko activates a self-destruct system on himself and his drones. Tony flies off to save Pepper from the explosions and after the chaos they kiss and make up, and Pepper steps down as CEO so Tony can take over.</p><p>Tony and Rhodes are later awarded with medals for their achievements.</p><div class=\"js-item-cage\"></div>",
+    "distributor": null,
+    "has_staff_review": null,
+    "id": 733,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1178087-4489826034_b18d678852.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1178087-4489826034_b18d678852.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1178087-4489826034_b18d678852.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1178087-4489826034_b18d678852.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1178087-4489826034_b18d678852.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1178087-4489826034_b18d678852.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1178087-4489826034_b18d678852.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1178087-4489826034_b18d678852.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/1178087-4489826034_b18d678852.jpg",
+        "image_tags": "All Images,Iron Man 2"
+    },
+    "name": "Iron Man 2",
+    "producers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-40467/",
+        "id": 40467,
+        "name": "Stan Lee",
+        "site_detail_url": "https://comicvine.gamespot.com/stan-lee/4040-40467/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-54414/",
+        "id": 54414,
+        "name": "Jon Favreau",
+        "site_detail_url": "https://comicvine.gamespot.com/jon-favreau/4040-54414/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/producer/4040-74372/",
+        "id": 74372,
+        "name": "Kevin Feige",
+        "site_detail_url": "https://comicvine.gamespot.com/kevin-feige/4040-74372/"
+    }],
+    "rating": "PG-13",
+    "release_date": "2019-05-03 19:12:32",
+    "runtime": "124 min",
+    "site_detail_url": "https://comicvine.gamespot.com/iron-man-2/4025-733/",
+    "studios": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-31/",
+        "id": 31,
+        "name": "Marvel",
+        "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/studio/4010-4615/",
+        "id": 4615,
+        "name": "Paramount Pictures",
+        "site_detail_url": "https://comicvine.gamespot.com/paramount-pictures/4010-4615/"
+    }],
+    "total_revenue": "312433331",
+    "writers": [{
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-4068/",
+        "id": 4068,
+        "name": "Larry Lieber",
+        "site_detail_url": "https://comicvine.gamespot.com/larry-lieber/4040-4068/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-5614/",
+        "id": 5614,
+        "name": "Jack Kirby",
+        "site_detail_url": "https://comicvine.gamespot.com/jack-kirby/4040-5614/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-6609/",
+        "id": 6609,
+        "name": "Don Heck",
+        "site_detail_url": "https://comicvine.gamespot.com/don-heck/4040-6609/"
+    }, {
+        "api_detail_url": "https://comicvine.gamespot.com/api/writer/4040-40467/",
+        "id": 40467,
+        "name": "Stan Lee",
+        "site_detail_url": "https://comicvine.gamespot.com/stan-lee/4040-40467/"
+    }]
+}]

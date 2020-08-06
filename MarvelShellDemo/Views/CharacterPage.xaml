@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarvelShellDemo.Views.CharacterPage"
+             Title="{Binding Title}"
+             BackgroundImage="marvel_bg.png">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Switch" Clicked="Handle_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ListView HasUnevenRows="true"
+              ItemsSource="{Binding Characters}">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+            <ViewCell>
+                 <!--<ViewCell.ContextActions>
+                    <MenuItem Clicked="OnMore" CommandParameter="{Binding .}"
+                       Text="More" />
+                    <MenuItem Clicked="OnDelete" CommandParameter="{Binding .}"
+                       Text="Delete" IsDestructive="True" />
+                 </ViewCell.ContextActions>-->
+                 <StackLayout Orientation="Horizontal" BackgroundColor="White" >
+                    <Image Source="{Binding image.thumb_url}"
+                           Aspect="AspectFill"
+                           HeightRequest="60"
+                           HorizontalOptions="Start"
+                           VerticalOptions="CenterAndExpand"/>
+                    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand">
+                        <Label Text="{Binding name}"
+                               VerticalOptions="Start" HorizontalOptions="Center"/>
+                        <Label Text="{Binding real_name}"
+                               VerticalOptions="Start" HorizontalOptions="Center"/>
+                    </StackLayout>
+                 </StackLayout>
+            </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+        
+    <!--<ListView.Header>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Header"
+            TextColor="Olive"
+            BackgroundColor="Red" />
+        </StackLayout>
+    </ListView.Header>
+    <ListView.Footer>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Footer"
+            TextColor="Gray"
+            BackgroundColor="Blue" />
+        </StackLayout>
+    </ListView.Footer>-->
+  </ListView>
+</ContentPage>

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.496342-pre2" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+    <PackageReference Include="Refractored.MvvmHelpers" Version="1.3.0" />
+    <PackageReference Include="Xam.Plugin.HtmlLabel" Version="3.0.2.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Xamarin.FFImageLoading.Svg.Forms" Version="2.4.11.982" />
+    <PackageReference Include="Xamarin.FFImageLoading.Transformations" Version="2.4.11.982" />
+    <PackageReference Include="Xamarin.FFImageLoading.Forms" Version="2.4.11.982" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Data\movies.json" />
+    <None Remove="characters.json" />
+    <None Remove="movies.json" />
+    <None Remove="story_arcs.json" />
+    <None Remove="teams.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="characters.json" />
+    <EmbeddedResource Include="movies.json" />
+    <EmbeddedResource Include="story_arcs.json" />
+    <EmbeddedResource Include="teams.json" />
+  </ItemGroup>
+</Project>

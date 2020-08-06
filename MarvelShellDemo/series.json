@@ -1,0 +1,1231 @@
+[{
+    "aliases": "Agents of SHIELD\r\nMarvel's Agents of S.H.I.E.L.D.",
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-1/",
+    "count_of_episodes": 114,
+    "date_added": "2013-09-23 14:13:53",
+    "date_last_updated": "2018-11-08 09:16:02",
+    "deck": null,
+    "description": "<figure data-align=\"right\" data-size=\"small\" data-img-src=\"https://static.comicvine.com/uploads/original/6/67663/6678758-6399865442-PAyOXD97w4txFMdr4_Jg0h-OkSmoyPs2uw5B9Tf0GWRysfUemPfeneFwSuEcnTrgzdg%3Ds2000\" data-ref-id=\"1300-6678758\" data-ratio=\"1\" data-width=\"800\" data-embed-type=\"image\" style=\"width: 800px\"><a class=\"fluid-height\" style=\"padding-bottom:100.0%\" href=\"https://static.comicvine.com/uploads/original/6/67663/6678758-6399865442-PAyOXD97w4txFMdr4_Jg0h-OkSmoyPs2uw5B9Tf0GWRysfUemPfeneFwSuEcnTrgzdg%3Ds2000\" data-ref-id=\"1300-6678758\"><img alt=\"No Caption Provided\" src=\"https://static.comicvine.com/uploads/scale_small/6/67663/6678758-6399865442-PAyOXD97w4txFMdr4_Jg0h-OkSmoyPs2uw5B9Tf0GWRysfUemPfeneFwSuEcnTrgzdg%3Ds2000\" srcset=\"https://static.comicvine.com/uploads/original/6/67663/6678758-6399865442-PAyOXD97w4txFMdr4_Jg0h-OkSmoyPs2uw5B9Tf0GWRysfUemPfeneFwSuEcnTrgzdg%3Ds2000 800w, https://static.comicvine.com/uploads/scale_small/6/67663/6678758-6399865442-PAyOXD97w4txFMdr4_Jg0h-OkSmoyPs2uw5B9Tf0GWRysfUemPfeneFwSuEcnTrgzdg%3Ds2000 640w\" sizes=\"(max-width: 640px) 100vw, 640px\" data-width=\"640\"></a></figure><p>The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division. A small team of operatives led by Agent Coulson (Clark Gregg) who must deal with the strange new world of \"superheroes\" after the \"Battle of New York\", protecting the public from new and unknown threats.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1/",
+        "id": 1,
+        "name": "Pilot",
+        "episode_number": "101"
+    },
+    "id": 1,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6238345-3060875932-35677.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6238345-3060875932-35677.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6238345-3060875932-35677.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6238345-3060875932-35677.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6238345-3060875932-35677.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6238345-3060875932-35677.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6238345-3060875932-35677.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6238345-3060875932-35677.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/6238345-3060875932-35677.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-30060/",
+        "id": 30060,
+        "name": "Code Yellow",
+        "episode_number": "604"
+    },
+    "name": "Agents of S.H.I.E.L.D.",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/agents-of-s-h-i-e-l-d/4075-1/",
+    "start_year": "2013-"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-6/",
+    "count_of_episodes": 26,
+    "date_added": "2013-09-24 12:24:13",
+    "date_last_updated": "2013-09-27 07:35:06",
+    "deck": null,
+    "description": "<p><em>An explosive event shatters the lives of the X-Men, as their mentor, Professor X, and friend, Jean Grey - are taken away from them. Disheartened, the team disbands. That is, until one of them is given a rare glimpse into a terrifiying future guarded by Sentinels and ruled by Magneto and The Brotherhood of Mutants -- a world without X-Men. Now, it's up to Wolverine to reunite the team, find his lost friends, and prevent the world's destruction. So now the most legendary of all X-Men, Wolverine, must take the lead on the ultimate mission--to prevent the world's destruction- while fending off enemies Magneto and The Brotherhood.<br /></em></p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-2834/",
+        "id": 2834,
+        "name": "Breakdown",
+        "episode_number": "120"
+    },
+    "id": 6,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332039-wolverinex-men1.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332039-wolverinex-men1.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332039-wolverinex-men1.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332039-wolverinex-men1.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332039-wolverinex-men1.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332039-wolverinex-men1.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332039-wolverinex-men1.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332039-wolverinex-men1.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332039-wolverinex-men1.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1207/",
+        "id": 1207,
+        "name": "Stolen Lives",
+        "episode_number": "114"
+    },
+    "name": "Wolverine and the X-Men",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-the-xmen/4075-6/",
+    "start_year": "2008"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-9/",
+    "count_of_episodes": 77,
+    "date_added": "2013-09-24 12:36:53",
+    "date_last_updated": "2015-07-20 12:41:52",
+    "deck": "Created by Stan Lee, Steve Ditko and Ralph Bakshi. Airing from September 9, 1967 - June 14, 1970 on ABC.",
+    "description": "<p><em> First airing on the ABC television network in 1967, the series revolves around the scientific-minded teenager Peter Parker who, after being bitten by a radioactive spider, develops amazing strength and spider-like powers. He decides to become a crime-fighting, costumed superhero; all the while dealing with his personal problems and the insecurities resulting from being a teenager.</em></p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-10/",
+        "id": 10,
+        "name": "The Power of Dr. Octopus",
+        "episode_number": "101"
+    },
+    "id": 9,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332062-5tsybgegoly.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332062-5tsybgegoly.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332062-5tsybgegoly.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332062-5tsybgegoly.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332062-5tsybgegoly.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332062-5tsybgegoly.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332062-5tsybgegoly.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332062-5tsybgegoly.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332062-5tsybgegoly.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-19130/",
+        "id": 19130,
+        "name": "Trip to Tomorrow",
+        "episode_number": "320"
+    },
+    "name": "Spider-Man",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spider-man/4075-9/",
+    "start_year": "1967"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-11/",
+    "count_of_episodes": 26,
+    "date_added": "2013-09-24 13:29:30",
+    "date_last_updated": "2013-09-24 20:57:19",
+    "deck": "Think relationships, school, friends and doting parents are enough for a kid to deal with? Try living Peter Parker's life as the Spectacular Spider-Man, a teenage hero with a part-time job and a host of evil, super-powered enemies.",
+    "description": "<p> A show staring <a href=\"//www.comicvine.com/spider-man/4005-1443/\" data-ref-id=\"4005-1443\">Spider-man</a> which ran from 2008-2009</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-4941/",
+        "id": 4941,
+        "name": "Opening Night",
+        "episode_number": "212"
+    },
+    "id": 11,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332158-6730999621-46769.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332158-6730999621-46769.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332158-6730999621-46769.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332158-6730999621-46769.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332158-6730999621-46769.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332158-6730999621-46769.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332158-6730999621-46769.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332158-6730999621-46769.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332158-6730999621-46769.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-4855/",
+        "id": 4855,
+        "name": "Subtext",
+        "episode_number": "211"
+    },
+    "name": "Spectacular Spider-Man",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spectacular-spiderman/4075-11/",
+    "start_year": "2008"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-16/",
+    "count_of_episodes": 83,
+    "date_added": "2013-09-24 14:01:54",
+    "date_last_updated": "2014-01-18 18:41:02",
+    "deck": "The TV show starring Bill Bixby as David Banner and Lou Ferrigno as the Hulk.  Also starring Jack Colvin as Jack McGee, obsessive and troublesome reporter from Chicago's \"National Register\".",
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-74/",
+        "id": 74,
+        "name": "Pilot",
+        "episode_number": "101"
+    },
+    "id": 16,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332228-4259954487-the-i.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332228-4259954487-the-i.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332228-4259954487-the-i.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332228-4259954487-the-i.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332228-4259954487-the-i.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332228-4259954487-the-i.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332228-4259954487-the-i.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332228-4259954487-the-i.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332228-4259954487-the-i.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-7251/",
+        "id": 7251,
+        "name": "A Minor Problem",
+        "episode_number": "507"
+    },
+    "name": "The Incredible Hulk",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-incredible-hulk/4075-16/",
+    "start_year": "1977-1982"
+}, {
+    "aliases": "Die Avengers – Die mächtigsten Helden der Welt",
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-18/",
+    "count_of_episodes": 52,
+    "date_added": "2013-09-24 14:06:52",
+    "date_last_updated": "2016-12-31 16:32:34",
+    "deck": null,
+    "description": "<p>When the planet is threatened by Super Villains, time-traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity; when the forces of evil are so overwhelming that no single hero has the power to save the world; when there is no hope left, the AVENGERS ASSEMBLE!</p><p>This series was replaced by Avengers Assemble, which premiered on July 7, 2013.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1344/",
+        "id": 1344,
+        "name": "Living Legend",
+        "episode_number": "109"
+    },
+    "id": 18,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332209-6230092393-AVENG.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332209-6230092393-AVENG.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332209-6230092393-AVENG.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332209-6230092393-AVENG.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332209-6230092393-AVENG.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332209-6230092393-AVENG.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332209-6230092393-AVENG.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332209-6230092393-AVENG.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332209-6230092393-AVENG.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1487/",
+        "id": 1487,
+        "name": "Winter Soldier",
+        "episode_number": "221"
+    },
+    "name": "The Avengers: Earth's Mightiest Heroes",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-avengers-earths-mightiest-heroes/4075-18/",
+    "start_year": "2010"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-20/",
+    "count_of_episodes": 65,
+    "date_added": "2013-09-24 14:13:46",
+    "date_last_updated": "2013-10-02 02:56:23",
+    "deck": null,
+    "description": "<p>Spider-Man: The Animated Series aired on Fox Kids between November 1994 and January 1998 and ran for 5 seasons (65 episodes). The series starred Spider-Man and featured many of the character's supporting cast and villains as well as guest appearances from other corners of the Marvel Universe. Written by John Semper Jr and produced by Marvel Films Animation, the series adapted several classic Spider-Man stories and featured a crossover with <a href=\"//www.comicvine.com/xmen-the-animated-series/4075-26/\" data-ref-id=\"4075-26\">X-Men: The Animated Series</a>.</p><p>Hugely successful around the world, Spider-Man: The Animated Series is generally acclaimed to be the most accurate TV adaptation of the famous web-slinger. Originally the show was created to accompany the James Cameron Spider-Man movie, however that film was scrapped. This is one of the reasons the show doesn't show Spider-Man's origin until the third season.</p><p><a href=\"//www.comicvine.com/stan-lee/4040-40467/\" data-ref-id=\"4040-40467\">Stan Lee</a>, Avi Arad, and Bill Kerstetter were the executive producers of the show. Stan Lee claimed to check \"everything to do with putting the show together\" to ensure the stories were told faithfully. Veteran writers <a href=\"/gerry-conway/4040-40871/\" data-ref-id=\"4040-40871\">Gerry Conway</a> and <a href=\"/marv-wolfman/4040-41478/\" data-ref-id=\"4040-41478\">Marv Wolfman</a> were among those chosen to write scripts for the show.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1318/",
+        "id": 1318,
+        "name": "Six Forgotten Warriors Chapter 1: Six Forgotten Warriors",
+        "episode_number": "502"
+    },
+    "id": 20,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332280-2piscllutfxcxds.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332280-2piscllutfxcxds.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332280-2piscllutfxcxds.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332280-2piscllutfxcxds.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332280-2piscllutfxcxds.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332280-2piscllutfxcxds.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332280-2piscllutfxcxds.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332280-2piscllutfxcxds.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332280-2piscllutfxcxds.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1317/",
+        "id": 1317,
+        "name": "The Wedding",
+        "episode_number": "501"
+    },
+    "name": "Spider-Man: The Animated Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spider-man-the-animated-series/4075-20/",
+    "start_year": "1994"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-26/",
+    "count_of_episodes": 76,
+    "date_added": "2013-09-24 16:11:03",
+    "date_last_updated": "2018-05-24 16:34:16",
+    "deck": null,
+    "description": "<p><em>X-Men: The Animated Series</em> aired from 1992-1997 on Fox Kids and ran for 5 seasons. The series adapted many classic X-Men stories, ranging from the <a href=\"//www.comicvine.com/dark-phoenix-saga/4045-42183/\" data-ref-id=\"4045-42183\">Dark Phoenix Saga</a> to <a href=\"//www.comicvine.com/age-of-apocalypse/4045-40752/\" data-ref-id=\"4045-40752\">Age of Apocalypse</a>, and starred a core team of <a href=\"//www.comicvine.com/x-men/4060-3173/\" data-ref-id=\"4060-3173\">X-Men</a> mostly based on the team featured in the then recent <a href=\"//www.comicvine.com/chris-claremont/4040-40468/\" data-ref-id=\"4040-40468\">Claremont</a>/<a href=\"//www.comicvine.com/jim-lee/4040-2399/\" data-ref-id=\"4040-2399\">Lee</a> <a href=\"/x-men/4050-4605/\" data-ref-id=\"4050-4605\"><em>X-Men</em></a> book (<a href=\"//www.comicvine.com/beast/4005-1462/\" data-ref-id=\"4005-1462\">Beast</a>, <a href=\"//www.comicvine.com/cyclops/4005-1459/\" data-ref-id=\"4005-1459\">Cyclops</a>, <a href=\"//www.comicvine.com/gambit/4005-1499/\" data-ref-id=\"4005-1499\">Gambit</a>, <a href=\"//www.comicvine.com/jean-grey/4005-3552/\" data-ref-id=\"4005-3552\">Jean Grey</a>, <a href=\"//www.comicvine.com/jubilee/4005-4562/\" data-ref-id=\"4005-4562\">Jubilee</a>, <a href=\"//www.comicvine.com/professor-x/4005-1505/\" data-ref-id=\"4005-1505\">Professor X</a>, <a href=\"//www.comicvine.com/rogue/4005-1446/\" data-ref-id=\"4005-1446\">Rogue</a>, <a href=\"//www.comicvine.com/storm/4005-1444/\" data-ref-id=\"4005-1444\">Storm</a>, <a href=\"//www.comicvine.com/wolverine/4005-1440/\" data-ref-id=\"4005-1440\">Wolverine</a>) and the series also featured recurring appearances from other X-Men members (most notably sizeable appearances by <a href=\"//www.comicvine.com/colossus/4005-1460/\" data-ref-id=\"4005-1460\">Colossus</a>, <a href=\"//www.comicvine.com/morph/4005-12547/\" data-ref-id=\"4005-12547\">Morph</a> and <a href=\"//www.comicvine.com/nightcrawler/4005-1461/\" data-ref-id=\"4005-1461\">Nightcrawler</a>). Other X-Men teams, such as <a href=\"/x-factor/4060-24131/\" data-ref-id=\"4060-24131\">X-Factor</a>, also appeared multiple times in the show. Interestingly, despite lasting 5 seasons and featuring the majority of iconic X-Men characters, <a href=\"//www.comicvine.com/kitty-pryde/4005-3548/\" data-ref-id=\"4005-3548\">Kitty Pryde</a> never appeared in the show.</p><p>Seasons 3 and 4 were mostly aired out of order causing inconsistencies and continuity problems between episodes. The series was originally intended to finish with Season 4 but 8 more episodes were ordered at the last minute resulting in the fifth season which featured animation by a different studio and many voice actors being replaced.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-147/",
+        "id": 147,
+        "name": "Night of the Sentinels (Part 1)",
+        "episode_number": "101"
+    },
+    "id": 26,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3334060-x-men%20animated.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3334060-x-men%20animated.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3334060-x-men%20animated.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3334060-x-men%20animated.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3334060-x-men%20animated.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3334060-x-men%20animated.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3334060-x-men%20animated.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3334060-x-men%20animated.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3334060-x-men%20animated.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-469/",
+        "id": 469,
+        "name": "Graduation Day",
+        "episode_number": "510"
+    },
+    "name": "X-Men: The Animated Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/xmen-the-animated-series/4075-26/",
+    "start_year": "1992"
+}, {
+    "aliases": "Hulk and the Agents of SMASH\r\nHulk und das Team S.M.A.S.H.",
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-34/",
+    "count_of_episodes": 52,
+    "date_added": "2013-09-24 19:10:22",
+    "date_last_updated": "2015-05-09 10:17:28",
+    "deck": "Hulk and the Agents of S.M.A.S.H. is an American cartoon series based on the superhero character by Marvel Comics.",
+    "description": "<p> Hulk and the agents of S.M.A.S.H. is a new show created by Disney centered around the \"hulk family\" of the Marvel Universe, the main characters being Hulk, She-Hulk, Red-Hulk, A-bomb, and Skarr. The show makes changes to the characters, the most prominent being that Hulk has full intelligence and has less of a hair trigger than any other versions of himself. The second is that none of the Hulks have shown to be able to change back to human form. The show details the Hulks lives living together, dealing with each others differences and pasts while saving the world and trying to prove they are more than monsters. </p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1593/",
+        "id": 1593,
+        "name": "Doorway to Destruction Part 2",
+        "episode_number": "102"
+    },
+    "id": 34,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3332778-image.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3332778-image.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3332778-image.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3332778-image.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3332778-image.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3332778-image.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3332778-image.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3332778-image.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3332778-image.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-18776/",
+        "id": 18776,
+        "name": "Planet Monster: Part 2",
+        "episode_number": "226"
+    },
+    "name": "Hulk and the Agents of S.M.A.S.H.",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/hulk-and-the-agents-of-s-m-a-s-h/4075-34/",
+    "start_year": "2013"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-46/",
+    "count_of_episodes": 25,
+    "date_added": "2013-09-25 00:33:30",
+    "date_last_updated": "2013-09-25 01:07:14",
+    "deck": "A forensic technician for the Miami Police Department lives a double life as a serial killer who hunts other killers, working by a code that his father created for him. Based on Jeff Lindsay's Dexter novels, which have been adapted into a Marvel comic book.",
+    "description": "<p><em> He's smart, he's good looking, and he's got a great sense of humor. He's Dexter Morgan, everyone's favorite serial killer. As a Miami forensics expert, he spends his days solving crimes, and nights committing them. But Dexter lives by a strict code of honor that is both his saving grace and lifelong burden. Torn between his deadly compulsion and his desire for true happiness, Dexter is a man in profound conflict with the world and himself. Golden Globe® winner Michael C. Hall stars in the hit Showtime Original Series.</em></p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-386/",
+        "id": 386,
+        "name": "Dexter",
+        "episode_number": "101"
+    },
+    "id": 46,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3333333-6097371986-79349.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3333333-6097371986-79349.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3333333-6097371986-79349.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3333333-6097371986-79349.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3333333-6097371986-79349.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3333333-6097371986-79349.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3333333-6097371986-79349.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3333333-6097371986-79349.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3333333-6097371986-79349.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-7127/",
+        "id": 7127,
+        "name": "Our Father",
+        "episode_number": "301"
+    },
+    "name": "Dexter",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/dexter/4075-46/",
+    "start_year": "2006-2013"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-55/",
+    "count_of_episodes": 24,
+    "date_added": "2013-09-25 13:54:38",
+    "date_last_updated": "2013-09-25 13:55:33",
+    "deck": null,
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-597/",
+        "id": 597,
+        "name": "The Triumph Of The Green Goblin",
+        "episode_number": "101"
+    },
+    "id": 55,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3334449-spiderman%20and%20his%20amazing%20friends%20-%201x01%20-%20triumph%20of%20the%20green%20goblin%20dvdrip.avi_000019480.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-621/",
+        "id": 621,
+        "name": "Mission: Save The Guardstar",
+        "episode_number": "308"
+    },
+    "name": "Spider-Man And His Amazing Friends",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spiderman-and-his-amazing-friends/4075-55/",
+    "start_year": "1981"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-77/",
+    "count_of_episodes": 74,
+    "date_added": "2013-09-28 02:09:53",
+    "date_last_updated": "2018-02-27 23:54:40",
+    "deck": "Two alien robot factions from the planet Cybertron, the heroic Autobots and the evil Decepticons, continue to wage war, but this time it's on a new battleground: Earth.",
+    "description": "<p><i><b>The Transformers</b></i>, was the original cartoon that ran from 1984 to 1987. Writing and distribution for this series were handled as a joint effort by Marvel Productions and Sunbow Productions. Animation was produced overseas, by Toei &amp; AKOM.  This cartoon series is commonly referred to as \"Generation 1\" by fans. The popular cartoon feature film, Transformers: The Movie (1986), takes place between the events of the second and third seasons. </p><h2>Episodes</h2><p>Season 1 - 16 Episodes</p><p>Season 2 - 49 Episodes</p><p><a href=\"//www.comicvine.com/transformers-the-movie/4025-625/\" data-ref-id=\"4025-625\">Transformers: The Movie</a> <em>(later released as five episodes along with 15 previously released episodes as Season 5)</em></p><p>Season 3 - 30 Episodes</p><p>Season 4 - 3 Episodes</p><p>Season 5 - 20 Episodes <em>(Season five featured a new opening and closing of an animatronic puppet of Optimus Prime in his Powermaster form telling a human Tommy Kennedy old stories ala \"prior episodes\" involving the Transformers)</em></p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-15177/",
+        "id": 15177,
+        "name": "The Ultimate Doom Part 1",
+        "episode_number": "108"
+    },
+    "id": 77,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3339799-4997875766-350px.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3339799-4997875766-350px.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3339799-4997875766-350px.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3339799-4997875766-350px.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3339799-4997875766-350px.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3339799-4997875766-350px.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3339799-4997875766-350px.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3339799-4997875766-350px.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3339799-4997875766-350px.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1740/",
+        "id": 1740,
+        "name": "The Rebirth, Part 3",
+        "episode_number": "403"
+    },
+    "name": "The Transformers",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-transformers/4075-77/",
+    "start_year": "1984 - 1987"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-78/",
+    "count_of_episodes": 13,
+    "date_added": "2013-09-28 05:39:10",
+    "date_last_updated": "2013-09-28 07:16:45",
+    "deck": "A mix of animation and CGI, the Silver Surfer series tells the cosmic tale of Norrin Radd - forever changed to save the ones he loves.",
+    "description": "<p>The Silver Surfer animated series began airing on Fox in 1998. The show is animated in the style of Silver Surfer creator <a href=\"//www.comicvine.com/jack-kirby/4040-5614/\" data-ref-id=\"4040-5614\">Jack Kirby</a>. It is also one of the first animated shows to incorporate computer animation, with characters such as Galactus being entirely compter generated. </p><p>Due to Marvel's bankrupcy issues at the time, the series only lasted for 13 episodes, although eight episodes for a second season had already been written. Those episodes never reached production, which is very unfortunate as the final episode of the first season was a multi-episode story. The final epsiode ends with 'The End?', making the series an unfinished cliffhanger. </p><p> </p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1605/",
+        "id": 1605,
+        "name": "The Origin of the Silver Surfer: Part One",
+        "episode_number": "101"
+    },
+    "id": 78,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3340237-silver%20surfer%20logo.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3340237-silver%20surfer%20logo.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3340237-silver%20surfer%20logo.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3340237-silver%20surfer%20logo.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3340237-silver%20surfer%20logo.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3340237-silver%20surfer%20logo.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3340237-silver%20surfer%20logo.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3340237-silver%20surfer%20logo.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3340237-silver%20surfer%20logo.jpg",
+        "image_tags": "All Images,Silver Surfer Animated (1998)"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1620/",
+        "id": 1620,
+        "name": "The Forever War",
+        "episode_number": "111"
+    },
+    "name": "Silver Surfer",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/silver-surfer/4075-78/",
+    "start_year": "1998"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-79/",
+    "count_of_episodes": 26,
+    "date_added": "2013-09-28 05:53:21",
+    "date_last_updated": "2014-10-04 04:58:12",
+    "deck": "An animated cartoon show of the Fantastic Four on Cartoon Network.",
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1632/",
+        "id": 1632,
+        "name": "De-Mole-Ition",
+        "episode_number": "110"
+    },
+    "id": 79,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3340245-7920862535-FF_Do.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3340245-7920862535-FF_Do.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3340245-7920862535-FF_Do.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3340245-7920862535-FF_Do.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3340245-7920862535-FF_Do.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3340245-7920862535-FF_Do.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3340245-7920862535-FF_Do.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3340245-7920862535-FF_Do.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3340245-7920862535-FF_Do.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-1659/",
+        "id": 1659,
+        "name": "Scavenger Hunt",
+        "episode_number": "126"
+    },
+    "name": "Fantastic Four: World's Greatest Heroes",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/fantastic-four-worlds-greatest-heroes/4075-79/",
+    "start_year": "2006"
+}, {
+    "aliases": "エックスメン\r\nEkkusu Men",
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-96/",
+    "count_of_episodes": 12,
+    "date_added": "2013-10-03 23:34:11",
+    "date_last_updated": "2018-10-30 17:45:49",
+    "deck": "Marvel Anime: X-Men is the third series in the Marvel Anime Universe.",
+    "description": "<p><em>The X-Men are a team of superhuman mutants founded by the worlds most powerful telepath, Professor Charles Xavier. Formed to defend human and mutants alike, the X-Men have disbanded in the wake of a tragedy when one of their members, Jean Grey, is killed in battle with the evil secret society, known as the Inner Circle.</em></p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3518/",
+        "id": 3518,
+        "name": "The Return - Joining Forces",
+        "episode_number": "101"
+    },
+    "id": 96,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3352165-x-men-anime-english%5B1%5D.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3352165-x-men-anime-english%5B1%5D.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3352165-x-men-anime-english%5B1%5D.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3352165-x-men-anime-english%5B1%5D.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3352165-x-men-anime-english%5B1%5D.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3352165-x-men-anime-english%5B1%5D.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3352165-x-men-anime-english%5B1%5D.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3352165-x-men-anime-english%5B1%5D.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3352165-x-men-anime-english%5B1%5D.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-26264/",
+        "id": 26264,
+        "name": "Destiny",
+        "episode_number": "112"
+    },
+    "name": "X-Men",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/x-men/4075-96/",
+    "start_year": "2011"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-97/",
+    "count_of_episodes": 21,
+    "date_added": "2013-10-03 23:34:47",
+    "date_last_updated": "2015-04-25 16:08:47",
+    "deck": "The Incredible Hulk is an American animated television series starring the Marvel Comics character the Hulk. In this dark take on the Green Goliath's life, Bruce Banner attempts to cure his condition permanently while he tries to escape from enemies who are following him, every step of the way.",
+    "description": "<h3><strong>Plot</strong></h3><p> </p><h4><strong>Season 1 (13 Episodes)</strong></h4><p>Unlike <a href=\"/fantastic-four-the-animated-series/4075-237/\" data-ref-id=\"4075-237\">Fantastic Four: The Animated Series</a> and <a href=\"/iron-man-the-animated-series/4075-136/\" data-ref-id=\"4075-136\">Iron Man: The Animated Series</a>, the entire series was developed by the two shows' second season creators. The first season was mainly dark and mature in take, which is not similar to the two programs above since these two shows may have a mild adult tone, the endings are mostly calm and are considered happy endings, mostly. The first season concerns <a href=\"/hulk/4005-2267/\" data-ref-id=\"4005-2267\">Dr. Bruce Banner</a>'s attempts to seek a cure for the cure, with some aid from <a href=\"/rick-jones/4005-2248/\" data-ref-id=\"4005-2248\">Rick Jones</a>, the reason why Bruce became the Hulk, <a href=\"/betty-ross/4005-3445/\" data-ref-id=\"4005-3445\">Betty Ross</a>, Bruce's love interest and his friend <a href=\"/doc-samson/4005-4315/\" data-ref-id=\"4005-4315\">Doc Samson</a>. Bruce's attempt to find a cure were ended mostly in failure, due to the intervention of several of his enemies. Bruce, while uncontrollably transforms into the Hulk in several occasions, travels to several parts of the world to find peace, an end to his pain and to stop his adversaries. Along his journey for inner peace, the Hulk encounters several enemies like <a href=\"/thunderbolt-ross/4005-3457/\" data-ref-id=\"4005-3457\">General Ross</a>, and his right hand man, <a href=\"/glenn-talbot/4005-3459/\" data-ref-id=\"4005-3459\">Major Talbot</a>. He also fights fellow rogue <a href=\"/shield/4060-3775/\" data-ref-id=\"4060-3775\">SHIELD</a> Agent <a href=\"/gabriel-jones/4005-13836/\" data-ref-id=\"4005-13836\">Gabriel Jones</a>, <a href=\"/leader/4005-7617/\" data-ref-id=\"4005-7617\">The Leader</a> and his servant boys, <a href=\"/gargoyle/4005-63894/\" data-ref-id=\"4005-63894\">Gargoyle</a>, and <a href=\"/abomination/4005-3489/\" data-ref-id=\"4005-3489\">Abomination</a>, the supercharged alien, <a href=\"/zzzax/4005-13812/\" data-ref-id=\"4005-13812\">Zzzax</a>, the savage <a href=\"/sasquatch/4005-1478/\" data-ref-id=\"4005-1478\">Sasquatch</a>, the tyrannical <a href=\"/doctor-doom/4005-1468/\" data-ref-id=\"4005-1468\">Doctor Doom</a> and the monstrous <a href=\"/wendigo/4005-13313/\" data-ref-id=\"4005-13313\">Wendigo</a> and the villainous <a href=\"/ogress/4005-25211/\" data-ref-id=\"4005-25211\">Ogress</a>. With all of these enemies in the way, the Hulk may need help from people like Rick Jones, Betty Ross, Doc Samson, <a href=\"/iron-man/4005-1455/\" data-ref-id=\"4005-1455\">Iron Man</a>, with his friend <a href=\"/war-machine/4005-1926/\" data-ref-id=\"4005-1926\">War Machine</a> and his computer <a href=\"/homer/4005-86289/\" data-ref-id=\"4005-86289\">HOMER</a>, the mysterious <a href=\"/ghost-rider-ketch/4005-14719/\" data-ref-id=\"4005-14719\">Daniel Ketch</a>, a member of the <a href=\"/fantastic-four/4060-3804/\" data-ref-id=\"4060-3804\">Fantastic Four</a> name the <a href=\"/thing/4005-2114/\" data-ref-id=\"4005-2114\">Thing</a>, his cousin <a href=\"/she-hulk/4005-1449/\" data-ref-id=\"4005-1449\">She-Hulk</a> and the mighty <a href=\"/thor/4005-2268/\" data-ref-id=\"4005-2268\">Thor</a>. Will the Hulk save the world and receive peace?</p><p> </p><p>Click <a href=\"http://www.youtube.com/watch?v=dyQpEoMFF3w\" rel=\"nofollow\" data-ref-id=\"false\">here</a> for the intro of Season 1.</p><p> </p><h4><strong>Season 2 (8 Episodes)</strong></h4><p>By this time, the show is now called, \"The Incredible Hulk and She-Hulk\". The dark tone of the show has been removed, thus making it more child friendly. After the events of the \"Darkness and Light\" trilogy, which is the first season's finale, Bruce Banner unwillingly transforms into the Grey Hulk, and the other Hulk is not happy about his new brother. This causes further inner turmoil with them. Luckily, She-Hulk and Rick Jones return to help him and General Ross is in a coma, which lessens his problems. Many more of Hulk's alter ego's surface like the gangster Mr. Fixit. With more added help from <a href=\"/doctor-strange/4005-1456/\" data-ref-id=\"4005-1456\">Doctor Strange</a>, will the Hulk get his head straight? By the way, Doctor Doom returns again.</p><p> </p><p>Click <a href=\"http://www.youtube.com/watch?v=zrUXOs91GCs\" rel=\"nofollow\" data-ref-id=\"false\">here</a> for the intro of The Incredible Hulk and She-Hulk.</p><p> </p><h4><strong>Season 3 (No Episodes)</strong></h4><p>When the creators of the show decided to make the show lighter, it's popularity plummeted, thus leading to it's confirmed fate, which is cancellation after the episode \"Mission: Incredible\" was aired. As of now, Season 3 will never happen.</p><p> </p><h3>Reception</h3><p>Critical reception for Season 1 was general acclaim from critics and fans of the comic books as well. The first season was given unanimous praise for it's undeniably adult tone and it's seriousness, as well as the first season's story arcs. The voice acting was also likened such as the several guest appearances from famous actors and well-known characters from the comics. However, the second season was received with disappointment because of it's lack of the first season's darkness, and the core characters sudden disappearance was also received negatively. As a result, the show only lasted two seasons with, only 21 episodes.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-2819/",
+        "id": 2819,
+        "name": "Return of the Beast: Part One",
+        "episode_number": "101"
+    },
+    "id": 97,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3352220-incredible_hulk_tas%5B1%5D.png",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3352220-incredible_hulk_tas%5B1%5D.png",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3352220-incredible_hulk_tas%5B1%5D.png",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3352220-incredible_hulk_tas%5B1%5D.png",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3352220-incredible_hulk_tas%5B1%5D.png",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3352220-incredible_hulk_tas%5B1%5D.png",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3352220-incredible_hulk_tas%5B1%5D.png",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3352220-incredible_hulk_tas%5B1%5D.png",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3352220-incredible_hulk_tas%5B1%5D.png",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-17726/",
+        "id": 17726,
+        "name": "Mission: Incredible",
+        "episode_number": "208"
+    },
+    "name": "The Incredible Hulk",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-incredible-hulk/4075-97/",
+    "start_year": "1996-1997"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-103/",
+    "count_of_episodes": 95,
+    "date_added": "2013-10-05 13:28:06",
+    "date_last_updated": "2013-10-09 13:07:37",
+    "deck": null,
+    "description": "<p>Based on the Marvel comics.</p><p>Episodes 001-005 make up a miniseries that ran in 1983 and have been included in packaging for Season 1.</p><p>Episodes 006-010 make up the Revenge of Cobra miniseries that ran in 1984, which has also been included in packaging for Season 1.</p><p>Regular seasons begin with the regular numbers, starting with 101.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-2594/",
+        "id": 2594,
+        "name": "The Cobra Strikes",
+        "episode_number": "001"
+    },
+    "id": 103,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3355717-gi%20joe%20title.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3355717-gi%20joe%20title.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3355717-gi%20joe%20title.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3355717-gi%20joe%20title.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3355717-gi%20joe%20title.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3355717-gi%20joe%20title.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3355717-gi%20joe%20title.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3355717-gi%20joe%20title.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3355717-gi%20joe%20title.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3552/",
+        "id": 3552,
+        "name": "Spell of the Siren",
+        "episode_number": "130"
+    },
+    "name": "G.I. Joe: A Real American Hero",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/gi-joe-a-real-american-hero/4075-103/",
+    "start_year": "1983"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-111/",
+    "count_of_episodes": 16,
+    "date_added": "2013-10-08 02:32:17",
+    "date_last_updated": "2016-05-18 09:02:50",
+    "deck": null,
+    "description": "<p>Animated television series, based on the Marvel Comics character Spider-Woman (Jessica Drew). The series was produced by DePatie-Freleng Enterprises and Marvel Comics Animation, and aired on September 22, 1979 to January 3, 1980.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-2844/",
+        "id": 2844,
+        "name": "Pyramids of Terror",
+        "episode_number": "101"
+    },
+    "id": 111,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3361491-spiderwoman.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3361491-spiderwoman.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3361491-spiderwoman.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3361491-spiderwoman.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3361491-spiderwoman.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3361491-spiderwoman.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3361491-spiderwoman.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3361491-spiderwoman.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3361491-spiderwoman.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-2860/",
+        "id": 2860,
+        "name": "The Deadly Dream",
+        "episode_number": "116"
+    },
+    "name": "Spider-Woman",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spider-woman/4075-111/",
+    "start_year": "1979-1980"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-122/",
+    "count_of_episodes": 13,
+    "date_added": "2013-10-13 10:59:59",
+    "date_last_updated": "2015-04-26 04:48:32",
+    "deck": null,
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3285/",
+        "id": 3285,
+        "name": "Avengers Assemble Part-One",
+        "episode_number": "101"
+    },
+    "id": 122,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3373589-avenger_unitds_6896.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3373589-avenger_unitds_6896.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3373589-avenger_unitds_6896.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3373589-avenger_unitds_6896.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3373589-avenger_unitds_6896.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3373589-avenger_unitds_6896.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3373589-avenger_unitds_6896.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3373589-avenger_unitds_6896.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3373589-avenger_unitds_6896.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3297/",
+        "id": 3297,
+        "name": "Earth and Fire, Part Two",
+        "episode_number": "113"
+    },
+    "name": "The Avengers: United They Stand",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-avengers-united-they-stand/4075-122/",
+    "start_year": "1999"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-127/",
+    "count_of_episodes": 6,
+    "date_added": "2013-10-20 04:36:09",
+    "date_last_updated": "2013-11-18 09:15:36",
+    "deck": null,
+    "description": "<p data-right-indent=\"0\" data-left-indent=\"0\">Black Panther was a cartoon series by Marvel Animation.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3482/",
+        "id": 3482,
+        "name": "Pilot",
+        "episode_number": "101"
+    },
+    "id": 127,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3390432-9513340236-Black.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3390432-9513340236-Black.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3390432-9513340236-Black.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3390432-9513340236-Black.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3390432-9513340236-Black.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3390432-9513340236-Black.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3390432-9513340236-Black.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3390432-9513340236-Black.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3390432-9513340236-Black.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3486/",
+        "id": 3486,
+        "name": "Black Panther vs. Juggernaut and Black Knight",
+        "episode_number": "105"
+    },
+    "name": "Black Panther",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/black-panther/4075-127/",
+    "start_year": "2011"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-128/",
+    "count_of_episodes": 13,
+    "date_added": "2013-10-20 05:02:21",
+    "date_last_updated": "2013-12-28 23:43:26",
+    "deck": "Join Spider-Man as he goes on an adventure beyond our world.",
+    "description": "<h3><strong>Plot</strong></h3><p> </p><h4><strong>Season 1 (13 Episodes)</strong></h4><p>When Venom and Carnage sabotaged John Jameson's launch, Spidey is discredited for the incident. He must now travel to Counter-Earth, a planet similar to our Earth but on the far side of the sun. Armed with a new Spidey suit, he must rescue John from sinister forces in Counter-Earth. Along the way he encounters Counter-Earth versions of Green Goblin, The Vulture, Electro and Kraven the Hunter, while being chased by some animal and human hybrids and chasing Venom and Carnage before they find the mysterious Synoptic.</p><p> </p><h4><strong>Reception</strong></h4><p>This animated series was critically panned by fans and critics for it's offbeat tone and as a result, it was short lived and lasted for only 13 episodes in total. In contrast, people praised the animation and the theme music.</p><p> </p><p> </p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3466/",
+        "id": 3466,
+        "name": "Worlds Apart, Part One",
+        "episode_number": "101"
+    },
+    "id": 128,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3390452-9882537596-Spide.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3390452-9882537596-Spide.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3390452-9882537596-Spide.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3390452-9882537596-Spide.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3390452-9882537596-Spide.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3390452-9882537596-Spide.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3390452-9882537596-Spide.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3390452-9882537596-Spide.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3390452-9882537596-Spide.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3478/",
+        "id": 3478,
+        "name": "Destiny Unleashed",
+        "episode_number": "113"
+    },
+    "name": "Spider-Man Unlimited",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spiderman-unlimited/4075-128/",
+    "start_year": "1999-2001"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-132/",
+    "count_of_episodes": 13,
+    "date_added": "2013-10-24 02:11:03",
+    "date_last_updated": "2013-10-28 12:21:10",
+    "deck": null,
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3554/",
+        "id": 3554,
+        "name": "A Monster Among Us",
+        "episode_number": "101"
+    },
+    "id": 132,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3399181-8567024264-Fanta.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3399181-8567024264-Fanta.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3399181-8567024264-Fanta.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3399181-8567024264-Fanta.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3399181-8567024264-Fanta.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3399181-8567024264-Fanta.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3399181-8567024264-Fanta.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3399181-8567024264-Fanta.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3399181-8567024264-Fanta.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3571/",
+        "id": 3571,
+        "name": "Blastaar, the Living Bomb Burst",
+        "episode_number": "113"
+    },
+    "name": "The Fantastic Four",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-fantastic-four/4075-132/",
+    "start_year": "1978"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-136/",
+    "count_of_episodes": 26,
+    "date_added": "2013-10-25 03:54:18",
+    "date_last_updated": "2014-02-02 16:20:48",
+    "deck": null,
+    "description": "<p>Iron Man: The Animated series is an American animated TV series.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3632/",
+        "id": 3632,
+        "name": "And the Sea Shall Give Up its Dead",
+        "episode_number": "101"
+    },
+    "id": 136,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3401545-6541830138-iron-.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3401545-6541830138-iron-.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3401545-6541830138-iron-.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3401545-6541830138-iron-.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3401545-6541830138-iron-.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3401545-6541830138-iron-.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3401545-6541830138-iron-.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3401545-6541830138-iron-.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3401545-6541830138-iron-.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-7719/",
+        "id": 7719,
+        "name": "Hands of Mandarin, Part 2",
+        "episode_number": "213"
+    },
+    "name": "Iron Man: The Animated Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/iron-man-the-animated-series/4075-136/",
+    "start_year": "1994-1996"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-144/",
+    "count_of_episodes": 13,
+    "date_added": "2013-10-29 05:38:23",
+    "date_last_updated": "2013-10-29 05:52:19",
+    "deck": "An animated television series starring Marvel's Incredible Hulk, which aired alongside \"Spider-Man and His Amazing Friends.\"",
+    "description": "<h2>Overview</h2><p>Airing on NBC for a total of one season, The Incredible Hulk ran between 1982 - 1983 joining <a href=\"//www.comicvine.com/spiderman-and-his-amazing-friends/4075-55/\" data-ref-id=\"4075-55\">Spider-Man and His Amazing Friends</a> in <strong>The Incredible Hulk and The Amazing Spider-Man</strong> animated hour of television.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3739/",
+        "id": 3739,
+        "name": "Prisoner of the Monster",
+        "episode_number": "102"
+    },
+    "id": 144,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3409717-0885923010-88988.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3409717-0885923010-88988.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3409717-0885923010-88988.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3409717-0885923010-88988.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3409717-0885923010-88988.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3409717-0885923010-88988.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3409717-0885923010-88988.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3409717-0885923010-88988.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3409717-0885923010-88988.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3738/",
+        "id": 3738,
+        "name": "Tomb of the Unknown Hulk",
+        "episode_number": "101"
+    },
+    "name": "The Incredible Hulk",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-incredible-hulk/4075-144/",
+    "start_year": "1982"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-155/",
+    "count_of_episodes": 13,
+    "date_added": "2013-10-31 11:21:11",
+    "date_last_updated": "2013-10-31 11:21:29",
+    "deck": "A short-lived 2006 Spike TV live-action series, based on the Marvel Comics character; Blade.",
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-5205/",
+        "id": 5205,
+        "name": "Pilot, Part 1",
+        "episode_number": "101"
+    },
+    "id": 155,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3413926-1009651048-kinop.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3413926-1009651048-kinop.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3413926-1009651048-kinop.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3413926-1009651048-kinop.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3413926-1009651048-kinop.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3413926-1009651048-kinop.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3413926-1009651048-kinop.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3413926-1009651048-kinop.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3413926-1009651048-kinop.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-5217/",
+        "id": 5217,
+        "name": "Conclave",
+        "episode_number": "113"
+    },
+    "name": "Blade: The Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/blade-the-series/4075-155/",
+    "start_year": "2006"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-158/",
+    "count_of_episodes": 52,
+    "date_added": "2013-11-02 18:14:17",
+    "date_last_updated": "2016-05-18 09:03:58",
+    "deck": null,
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3900/",
+        "id": 3900,
+        "name": "To Err is Superhuman!",
+        "episode_number": "102"
+    },
+    "id": 158,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419025-super-hero-squad-show-03.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419025-super-hero-squad-show-03.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419025-super-hero-squad-show-03.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419025-super-hero-squad-show-03.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419025-super-hero-squad-show-03.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419025-super-hero-squad-show-03.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419025-super-hero-squad-show-03.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419025-super-hero-squad-show-03.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3419025-super-hero-squad-show-03.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-3958/",
+        "id": 3958,
+        "name": "The Final Battle! ('Nuff Said!)",
+        "episode_number": "226"
+    },
+    "name": "The Super Hero Squad Show",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-super-hero-squad-show/4075-158/",
+    "start_year": "2009-2011"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-217/",
+    "count_of_episodes": 13,
+    "date_added": "2013-12-28 14:28:03",
+    "date_last_updated": "2014-01-10 06:25:17",
+    "deck": "Young Peter Parker struggles to balance his average, teenage life with his superhero duties as Spider-Man. In this loose continuation of the acclaimed Spider-Man, Spidey faces off with new enemies and encounters a new crush. Will Spidey ever get a normal life?",
+    "description": "<h3><strong>Plot</strong></h3><p> </p><h4><strong>Season 1 (13 Episodes)</strong></h4><p>As previously stated in the description, Peter Parker is still trying to balance his hero life and normal life. The series takes place in the aftermath of the film, Spider-Man. Norman Osborn is dead in this series, thus making his best friend, Harry Osborn, having a vendetta against the web-head. Peter, Harry and MJ still attend Empire State University. All things were not going as he wanted when he has a sudden attraction to Indira Daimonji, an original character for the show. She serves as a foil to their relationship. Along the way, he fights KGB terrorists, a gadget using Robin Hood, a bird-themed thief, a brainiac kind of villain, sibling telepaths,a psychotic fan girl, <a href=\"//www.comicvine.com/lizard/4005-1488/\" data-ref-id=\"4005-1488\">a monstrous reptile</a>, <a href=\"//www.comicvine.com/kingpin/4005-1483/\" data-ref-id=\"4005-1483\">a manipulative mob-boss</a> , <a href=\"//www.comicvine.com/electro/4005-3228/\" data-ref-id=\"4005-3228\">a shocking electrician</a>, <a href=\"//www.comicvine.com/kraven-the-hunter/4005-2475/\" data-ref-id=\"4005-2475\">a murderous hunter</a> and assassins, including a magical sword wielding ninja, a fish-themed killer and <a href=\"//www.comicvine.com/silver-sable/4005-7608/\" data-ref-id=\"4005-7608\">a female trained professional</a>.</p><p> </p><h4><strong>Season 2 (No Episodes)</strong></h4><p>The final episode was forced to end in a cliffhanger due to low ratings. According to director, Brandon Vietti, Season 2 would have featured <a href=\"/mysterio/4005-4333/\" data-ref-id=\"4005-4333\">a master of illusions</a>, <a href=\"//www.comicvine.com/vulture/4005-4459/\" data-ref-id=\"4005-4459\">an old bird brain</a> and still the murderous hunter.</p><p> </p><h3><strong>Reception</strong></h3><p>Though ratings were low, it has received positive reviews because of it's dark tone and fresh take on the traditional web-head's adventures, including it's animation. On the contrary, some fans and critics question the use of original characters when there are numerous characters usable. It was nominated for two Annie Awards.</p><h3><strong>Trivia</strong></h3><p>This series was originally planned to be adaptations of <a href=\"//www.comicvine.com/brian-michael-bendis/4040-40435/\" data-ref-id=\"4040-40435\">Brian Michael Bendis</a>'s fan-favorite run of <a href=\"//www.comicvine.com/ultimate-spider-man/4050-7257/\" data-ref-id=\"4050-7257\">Ultimate Spider-Man</a>. However, due to the success of Sam Raimi's Spider-Man movie, the series plans was changed, making the continuation to the film. Bendis's run would be adapetd to Disney's <a href=\"//www.comicvine.com/ultimate-spiderman/4075-13/\" data-ref-id=\"4075-13\">Ultimate Spider-Man</a> TV Series. The original artwork featured Ultimate counter-parts of <a href=\"//www.comicvine.com/rhino/4005-2126/\" data-ref-id=\"4005-2126\">a dumb muscleman</a>, <a href=\"//www.comicvine.com/doctor-octopus/4005-1485/\" data-ref-id=\"4005-1485\">a scientific octopus</a> and <a href=\"/vulture-drago/4005-62054/\" data-ref-id=\"4005-62054\">a bird-brain wannabe</a> (this bird brain can possibly be the older version).</p><p> </p><p>In the episode, Mind Games: Part Two, Peter gave up his identity as Spider-man after his meeting with his enemies and the entire New York started to hate him. This event also happened the same time <a href=\"//www.comicvine.com/spider-man-2/4025-42/\" data-ref-id=\"4025-42\">Spider-Man 2</a> was shown, where in he also started to retire as Spider-Man after believing he may not be meant to be Spider-man after all. Coincidence?</p><p> </p><p><strong>Note: All episodes are arranged according to production not according to air date.</strong></p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-6196/",
+        "id": 6196,
+        "name": "Heroes and Villains",
+        "episode_number": "101"
+    },
+    "id": 217,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3532740-220px-spider-man_new-animated-series-season-1.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-6611/",
+        "id": 6611,
+        "name": "Mind Games: Part Two",
+        "episode_number": "113"
+    },
+    "name": "Spider-Man: The New Animated Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/spider-man-the-new-animated-series/4075-217/",
+    "start_year": "2003"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-225/",
+    "count_of_episodes": 52,
+    "date_added": "2013-12-31 09:04:00",
+    "date_last_updated": "2014-04-28 05:11:20",
+    "deck": "Armed with an array of advanced technology and several state of the art armors, an adolescent Tony Stark saves the world as The Invincible Iron Man. In this slight re imagination of Iron Man, Tony Stark, along with his friends fight several enemies to find the Makluan Rings",
+    "description": "<h3><strong>Plot</strong></h3><h4><strong>Season 1 (26 Episodes)</strong></h4><p> </p><p>After the presumed death of <a href=\"//www.comicvine.com/howard-stark/4005-48549/\" data-ref-id=\"4005-48549\">Howard Stark</a>, the father of a young <a href=\"//www.comicvine.com/iron-man/4005-1455/\" data-ref-id=\"4005-1455\">Tony Stark</a>, Obadiah Stane, who was a close associate of Howard, takes control of Stark Industries. He is 16 years old now and is forcefully sent to Tomorrow Academy to study, like a normal person would do. Meanwhile, evidence comes to light that a mysterious character named, The Mandarin, has some involvement with Howard's passing, along the so-called, \"Makluan Rings\". Now, Tony Stark must maintain his new life as a normal adolescent and be ready to suit up to find the Makluan Rings, in order to solve this problem. Besides the strange <a href=\"//www.comicvine.com/mandarin/4005-3530/\" data-ref-id=\"4005-3530\">Mandarin</a> and the power-hungry <a href=\"//www.comicvine.com/obadiah-stane/4005-31197/\" data-ref-id=\"4005-31197\">Obadiah Stane</a>, Tony deals with the scientific <a href=\"//www.comicvine.com/aim/4060-13497/\" data-ref-id=\"4060-13497\">A.I.M.</a> with it's creepy creation, <a href=\"//www.comicvine.com/modok/4005-3709/\" data-ref-id=\"4005-3709\">M.O.D.O.C.</a>, the deadly <a href=\"//www.comicvine.com/crimson-dynamo-vanko/4005-7234/\" data-ref-id=\"4005-7234\">Crimson Dynamo</a>, the fearsome <a href=\"//www.comicvine.com/maggia/4060-26082/\" data-ref-id=\"4060-26082\">Maggia</a> and it's crew, the dangerous <a href=\"/unicorn/4005-13825/\" data-ref-id=\"4005-13825\">Unicorn</a>, the deadly <a href=\"//www.comicvine.com/killer-shrike/4005-12067/\" data-ref-id=\"4005-12067\">Killer Shrike</a>, the strong <a href=\"/black-knight-garrett/4005-73451/\" data-ref-id=\"4005-73451\">Black Knight</a> and the intellectual <a href=\"//www.comicvine.com/count-nefaria/4005-3229/\" data-ref-id=\"4005-3229\">Count Nefaria</a>, the lethal <a href=\"//www.comicvine.com/living-laser/4005-9904/\" data-ref-id=\"4005-9904\">Living Laser</a>, the mistress of disguise <a href=\"//www.comicvine.com/madame-masque/4005-13940/\" data-ref-id=\"4005-13940\">Madame Masque</a>, the intangible <a href=\"//www.comicvine.com/ghost/4005-17638/\" data-ref-id=\"4005-17638\">Ghost</a>, the vengeful <a href=\"//www.comicvine.com/blizzard/4005-4808/\" data-ref-id=\"4005-4808\">Blizzard</a>, the crazed Whiplash (Identity unconfirmed), the cybernetic <a href=\"//www.comicvine.com/fixer/4005-3282/\" data-ref-id=\"4005-3282\">Mr. Fix</a>, and the viral <a href=\"//www.comicvine.com/technovore/4005-56711/\" data-ref-id=\"4005-56711\">Technovore</a>, with \"Makluan Ring Guardian\" versions of the mighty <a href=\"//www.comicvine.com/ultimo/4005-19684/\" data-ref-id=\"4005-19684\">Ultimo</a>, the hottest villain ever (literally) Firebrand (based upon the comics but not any incarnation), the dreaded <a href=\"//www.comicvine.com/dreadknight/4005-16084/\" data-ref-id=\"4005-16084\">Dreadknights</a> and the colossal <a href=\"//www.comicvine.com/fin-fang-foom/4005-8145/\" data-ref-id=\"4005-8145\">Fin Fang Foom</a>. These guys may be tough but Iron Man's has some help from his best friend <a href=\"//www.comicvine.com/war-machine/4005-1926/\" data-ref-id=\"4005-1926\">Rhodie</a>, his other best friend <a href=\"//www.comicvine.com/pepper-potts/4005-4263/\" data-ref-id=\"4005-4263\">Pepper</a>, his new friend Gene Khan, the agency called <a href=\"//www.comicvine.com/shield/4060-3775/\" data-ref-id=\"4060-3775\">S.H.I.E.L.D.</a> with it's bosses <a href=\"//www.comicvine.com/nick-fury/4005-3202/\" data-ref-id=\"4005-3202\">Nick Fury</a> and <a href=\"//www.comicvine.com/maria-hill/4005-40824/\" data-ref-id=\"4005-40824\">Maria Hill</a>, the incredible <a href=\"//www.comicvine.com/hulk/4005-2267/\" data-ref-id=\"4005-2267\">Hulk</a> with his pal, <a href=\"//www.comicvine.com/rick-jones/4005-2248/\" data-ref-id=\"4005-2248\">Rick Jones</a>, and finally the king named <a href=\"//www.comicvine.com/black-panther/4005-1477/\" data-ref-id=\"4005-1477\">Black Panther</a>. However, one of his friends is actually a traitor and they don't know when he/she is going to hit hard.</p><p> </p><h4><strong>Season 2 (26 Episodes)</strong></h4><p> </p><p>His friend and their long time ally, Gene Khan, has finally been revealed as the step-son of the Mandarin. Which means, he is the traitor all along. With the armory destroyed and his arc reactor damaged, Tony asked the help of <a href=\"//www.comicvine.com/yinsen/4005-7858/\" data-ref-id=\"4005-7858\">Ho Yinsen</a>, the man who built the reactor, to build a new arc reactor with a new armor. This is it folks, there is no turning back this time. There are only 5 Makluan Rings left to find, Tony has only one year left to take charge of Stark Industries, the Mandarin is going down, and Howard is alive and must be found. Now with a new armor, alongside armored up Rhodey who is now the weaponized War Machine while Pepper is now the battle ready Rescue, Tony will not rest until all will end with a bang. But watch out, Tony! More vile beings are after you. With Tony's armor specs are sold by Ghost to Obadiah and the younger <a href=\"/justin-hammer/4005-10219/\" data-ref-id=\"4005-10219\">Justin Hammer</a>, they transform themselves into the metallic <a href=\"/titanium-man/4005-13823/\" data-ref-id=\"4005-13823\">Titanium Man</a> and the <a href=\"//www.comicvine.com/iron-monger-armor/4055-57678/\" data-ref-id=\"4055-57678\">Iron Monger</a>. On the other side, the tyrannical <a href=\"//www.comicvine.com/doctor-doom/4005-1468/\" data-ref-id=\"4005-1468\">Dr. Doom</a> and the magnetic <a href=\"//www.comicvine.com/magneto/4005-1441/\" data-ref-id=\"4005-1441\">Magneto</a> join in against you. Never fear, with the sharp eyed <a href=\"//www.comicvine.com/hawkeye/4005-1475/\" data-ref-id=\"4005-1475\">Hawkeye</a> and the venomous <a href=\"//www.comicvine.com/black-widow/4005-3200/\" data-ref-id=\"4005-3200\">Black Widow</a>, with some help from his friends from the past season, they will stop all of those meddling villains, with some of them your past enemies, and take them to jail, for good.</p><p> </p><p><strong>Season 3 (No Episodes)</strong></p><p> </p><p>The reason behind the series's state of hiatus was never confirmed. Words begin to speculate that the series has ended or cancelled. Currently, there is now word from the producers. However, they stated that they would have introduced <a href=\"//www.comicvine.com/wolverine/4005-1440/\" data-ref-id=\"4005-1440\">Wolverine</a> if the series continued. Possibly hinting that the series has been canceled.</p><p> </p><h4><strong>Reception</strong></h4><h4> </h4><p>This series has high ratings due to their advertising campaign. Critical reception to the series were initially mixed. Many critics and fans criticize the idea of making Iron Man and most of his supporting characters younger than their comic book counterparts. A lot also commented that the graphics and the characters were uninteresting and it feels like that the tone is completely departed from the comics. Also, a lot of viewers commented that Tony's origin story is very similar to that of <a href=\"//www.comicvine.com/spider-man/4005-1443/\" data-ref-id=\"4005-1443\">Spider-Man</a>. On the bright side, the storytelling was lauded by many because of it's surprisingly good way of telling a story with the people praising the idea of departing from the cinematic take of Iron Man. It won 1 Pulcinella Award for Best TV Series for Teens.</p><p> </p><p> </p><p> </p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-6902/",
+        "id": 6902,
+        "name": "Ready, A.I.M., Fire",
+        "episode_number": "110"
+    },
+    "id": 225,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3539582-1122547061-IronM.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3539582-1122547061-IronM.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3539582-1122547061-IronM.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3539582-1122547061-IronM.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3539582-1122547061-IronM.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3539582-1122547061-IronM.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3539582-1122547061-IronM.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3539582-1122547061-IronM.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3539582-1122547061-IronM.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-23131/",
+        "id": 23131,
+        "name": "The Makluan Invasion Part 2: Unite!",
+        "episode_number": "226"
+    },
+    "name": "Iron Man: Armored Adventures",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/iron-man-armored-adventures/4075-225/",
+    "start_year": "2009-2012"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-237/",
+    "count_of_episodes": 26,
+    "date_added": "2014-01-10 06:14:04",
+    "date_last_updated": "2014-04-20 22:51:23",
+    "deck": "The world's first superhero family go on adventures to save the world as the Fantastic Four. In this accurate retelling of the popular comic book series, the Fantastic Four must go on weird adventures through time and space to stop the menace of several of the team's enemies.",
+    "description": "<h3><strong>Plot</strong></h3><p> </p><h4><strong>Season 1 (13 Episodes)</strong></h4><p>The entire series holds episodes that are exact adaptations of several of the FF's tales and is part of the Marvel Action Hour, alongside <a href=\"/iron-man-the-animated-series/4075-136/\" data-ref-id=\"4075-136\">Iron Man: The Animated Series</a> and <a href=\"/the-incredible-hulk-the-animated-series/4075-97/\" data-ref-id=\"4075-97\">The Incredible Hulk: Animated Series</a>. This series was toned to a campy feel, thus making it kid friendly but not grown up entertaining. Each episode contains a small intro, courtesy of \"The Man\" himself, <a href=\"//www.comicvine.com/stan-lee/4040-40467/\" data-ref-id=\"4040-40467\">Stan Lee</a>, talking about his works regarding the team. This series contains humor through the use of gags. They are stationed at <a href=\"/baxter-building/4020-41454/\" data-ref-id=\"4020-41454\">Baxter Building</a>. During their face-offs, they battle <a href=\"//www.comicvine.com/doctor-doom/4005-1468/\" data-ref-id=\"4005-1468\">Doctor Doom</a>, <a href=\"//www.comicvine.com/skrulls/4060-40668/\" data-ref-id=\"4060-40668\">The Skrulls</a> and their <a href=\"//www.comicvine.com/super-skrull/4005-21332/\" data-ref-id=\"4005-21332\">Super-Skrull</a>, <a href=\"//www.comicvine.com/galactus/4005-2149/\" data-ref-id=\"4005-2149\">Galactus</a>, <a href=\"//www.comicvine.com/blastaar/4005-10963/\" data-ref-id=\"4005-10963\">Blastaar</a>, <a href=\"//www.comicvine.com/annihilus/4005-10964/\" data-ref-id=\"4005-10964\">Annihilus</a>, <a href=\"//www.comicvine.com/mole-man/4005-2481/\" data-ref-id=\"4005-2481\">Mole Man</a>, <a href=\"//www.comicvine.com/puppet-master/4005-3799/\" data-ref-id=\"4005-3799\">Puppet Master</a> and <a href=\"//www.comicvine.com/namor/4005-1476/\" data-ref-id=\"4005-1476\">Namor</a>. With help from the <a href=\"//www.comicvine.com/silver-surfer/4005-2502/\" data-ref-id=\"4005-2502\">Silver Surfer</a>, <a href=\"//www.comicvine.com/alicia-masters/4005-4337/\" data-ref-id=\"4005-4337\">Alicia Masters</a> and <a href=\"//www.comicvine.com/watcher/4005-7120/\" data-ref-id=\"4005-7120\">The Watcher</a>, the world will be saved from these atrocities.</p><p> </p><p>Click <a href=\"http://www.youtube.com/watch?v=XggH5-vLlUQ\" rel=\"nofollow\" data-ref-id=\"false\">here</a> for the intro of Season 1.</p><p> </p><h4><strong>Season 2 (13 Episodes)</strong></h4><p>Like the previous season, the season are also adaptations of their journeys that involves fighting criminals, intergalactic and scientific alike. However, this season took a much more mature tone, with a new extension for their headquarters dubbed, the <a href=\"/four-freedoms-plaza/4020-42378/\" data-ref-id=\"4020-42378\">Four Freedoms Plaza</a>, and new uniforms to go with it. Not to mention a new vehicle called the <a href=\"/fantasti-car-mk-ii/4055-42343/\" data-ref-id=\"4055-42343\">Fantasti-Car MK II</a>. But with all this new stuff, there will also be new foes. They encountered the <a href=\"//www.comicvine.com/frightful-four/4060-11439/\" data-ref-id=\"4060-11439\">Frightful Four</a>, composed of <a href=\"//www.comicvine.com/trapster/4005-4328/\" data-ref-id=\"4005-4328\">Trapster</a>, <a href=\"/wizard/4005-3287/\" data-ref-id=\"4005-3287\">Wizard</a>, <a href=\"/hydro-man/4005-4457/\" data-ref-id=\"4005-4457\">Hydro-Man</a> and <a href=\"//www.comicvine.com/medusa/4005-4327/\" data-ref-id=\"4005-4327\">Medusa</a>, they meet the <a href=\"//www.comicvine.com/inhumans/4060-11427/\" data-ref-id=\"4060-11427\">Inhumans</a>, alongside <a href=\"//www.comicvine.com/black-bolt/4005-4329/\" data-ref-id=\"4005-4329\">Black Bolt</a>, <a href=\"/seeker/4005-13858/\" data-ref-id=\"4005-13858\">Seeker</a> and <a href=\"/maximus/4005-3447/\" data-ref-id=\"4005-3447\">Maximus</a>, they fight <a href=\"//www.comicvine.com/psycho-man/4005-7112/\" data-ref-id=\"4005-7112\">Psycho-Man</a>, <a href=\"//www.comicvine.com/terrax/4005-2106/\" data-ref-id=\"4005-2106\">Terrax</a>, <a href=\"//www.comicvine.com/klaw/4005-3171/\" data-ref-id=\"4005-3171\">Klaw</a>, <a href=\"/morrat/4005-56640/\" data-ref-id=\"4005-56640\">Morrat</a>, <a href=\"//www.comicvine.com/invisible-woman/4005-2190/\" data-ref-id=\"4005-2190\">Malice</a> (Invisible Woman under mind control), <a href=\"/worldmind/4005-51594/\" data-ref-id=\"4005-51594\">Ego The Living Planet</a>, <a href=\"/impossible-man/4005-7590/\" data-ref-id=\"4005-7590\">Impossible Man</a>, and <a href=\"//www.comicvine.com/hulk/4005-2267/\" data-ref-id=\"4005-2267\">Hulk</a> (brainwashed). They must also face the return of Doctor Doom and Galactus. Also, they brought back-up which includes <a href=\"//www.comicvine.com/daredevil/4005-24694/\" data-ref-id=\"4005-24694\">Daredevil</a>, <a href=\"//www.comicvine.com/frankie-raye/4005-11605/\" data-ref-id=\"4005-11605\">Nova</a>, <a href=\"//www.comicvine.com/black-panther/4005-1477/\" data-ref-id=\"4005-1477\">Black Panther</a>, <a href=\"//www.comicvine.com/thor/4005-2268/\" data-ref-id=\"4005-2268\">Thor</a>, <a href=\"//www.comicvine.com/ghost-rider-ketch/4005-14719/\" data-ref-id=\"4005-14719\">Ghost Rider</a>, Hulk (restored), <a href=\"//www.comicvine.com/rick-jones/4005-2248/\" data-ref-id=\"4005-2248\">Rick Jones</a> and Silver Surfer again, even some of the Inhumans. Will they survive their last adventure against Doom and Galactus?</p><p> </p><p>Click <a href=\"http://www.youtube.com/watch?v=EaBTW9IHhLQ\" rel=\"nofollow\" data-ref-id=\"false\">here</a> for the intro of Season 2.</p><p> </p><h4><strong>Season 3 (No Episodes)</strong></h4><p>The show cancelled after the episode, \"<a href=\"https://www.comicvine.com/fantastic-four-the-animated-series-213-doomsday/4070-10966/\" data-ref-id=\"4070-10966\">Doomsday</a>\" was aired. According to Tom Tataranowicz, the supervising prodcuer of Season 2, they would've adapted the story line containing Invisible Woman's pregnancy and their own version of Namor. They would also have made <a href=\"//www.comicvine.com/she-hulk/4005-1449/\" data-ref-id=\"4005-1449\">She-Hulk</a> and Medusa as temporary members of the team.</p><p> </p><h4><strong>Reception</strong></h4><p>Critical reception for the first season was overall negative. It was heavily criticized for it's campy tone, poor animation, several inconsistencies in each episodes and nearly predictable story lines. Because of it's terrible results, the show was forced to be produced under a new studio (Season 2). Though it was slightly praised for being reliable to the source material. For Season 2, the reception became more positive because of it's darker tone. But the ratings continued to drop after suffering from the first season's outcome, thus cancelling the series.</p><p> </p><p>Note: All episodes are arranged according to production date not by air date.</p>",
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-6720/",
+        "id": 6720,
+        "name": "The Origin of the Fantastic Four: Part 1",
+        "episode_number": "101"
+    },
+    "id": 237,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3567961-0124873668-35634.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3567961-0124873668-35634.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3567961-0124873668-35634.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3567961-0124873668-35634.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3567961-0124873668-35634.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3567961-0124873668-35634.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3567961-0124873668-35634.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3567961-0124873668-35634.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3567961-0124873668-35634.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-10966/",
+        "id": 10966,
+        "name": "Doomsday",
+        "episode_number": "213"
+    },
+    "name": "Fantastic Four: The Animated Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/fantastic-four-the-animated-series/4075-237/",
+    "start_year": "1994-1996"
+}, {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-291/",
+    "count_of_episodes": 53,
+    "date_added": "2014-02-28 06:54:33",
+    "date_last_updated": "2014-02-28 06:55:17",
+    "deck": null,
+    "description": null,
+    "first_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-8960/",
+        "id": 8960,
+        "name": "The Jack O'Lantern Syndrome",
+        "episode_number": "206"
+    },
+    "id": 291,
+    "image": {
+        "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3670089-men_in_black_the_series.jpg",
+        "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3670089-men_in_black_the_series.jpg",
+        "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3670089-men_in_black_the_series.jpg",
+        "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3670089-men_in_black_the_series.jpg",
+        "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3670089-men_in_black_the_series.jpg",
+        "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3670089-men_in_black_the_series.jpg",
+        "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3670089-men_in_black_the_series.jpg",
+        "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3670089-men_in_black_the_series.jpg",
+        "original_url": "https://comicvine.gamespot.com/api/image/original/3670089-men_in_black_the_series.jpg",
+        "image_tags": "All Images"
+    },
+    "last_episode": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-8964/",
+        "id": 8964,
+        "name": "The Black Christmas Syndrome",
+        "episode_number": "211"
+    },
+    "name": "Men in Black: The Series",
+    "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/men-in-black-the-series/4075-291/",
+    "start_year": "1997"
+}]

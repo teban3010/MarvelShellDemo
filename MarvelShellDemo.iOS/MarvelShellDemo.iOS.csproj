@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A73FF594-5587-473F-829F-04138AC20A1A}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{89a4fe7c-635d-49c9-8d8c-5cd363c0d68d}</TemplateGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MarvelShellDemo.iOS</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>MarvelShellDemo.iOS</AssemblyName>
+    <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>x86_64</MtouchArch>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>true</MtouchDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>x86_64</MtouchArch>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARM64</MtouchArch>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchArch>ARM64</MtouchArch>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <None Include="Entitlements.plist" />
+    <None Include="Info.plist" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon1024.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon180.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon167.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon152.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon120.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon87.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon80.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon76.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon60.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon58.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon40.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon29.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <BundleResource Include="Resources\tab_about.png" />
+    <BundleResource Include="Resources\tab_about%402x.png" />
+    <BundleResource Include="Resources\tab_about%403x.png" />
+    <BundleResource Include="Resources\tab_feed.png" />
+    <BundleResource Include="Resources\tab_feed%402x.png" />
+    <BundleResource Include="Resources\tab_feed%403x.png" />
+    <BundleResource Include="Resources\xamarin_logo.png" />
+    <BundleResource Include="Resources\xamarin_logo%402x.png" />
+    <BundleResource Include="Resources\xamarin_logo%403x.png" />
+    <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
+    <BundleResource Include="Resources\LaunchImage-1125%403x~iphoneX-portrait_1125x2436.png" />
+    <BundleResource Include="Resources\LaunchImage-1242%403x~iphone6s-landscape_2208x1242.png" />
+    <BundleResource Include="Resources\LaunchImage-1242%403x~iphone6s-portrait_1242x2208.png" />
+    <BundleResource Include="Resources\LaunchImage-1242%403x~iphoneXsMax-portrait_1242x2688.png" />
+    <BundleResource Include="Resources\LaunchImage-1792%402x~iphoneXr-landscape_1792x828.png" />
+    <BundleResource Include="Resources\LaunchImage-2436%403x~iphoneX-landscape_2436x1125.png" />
+    <BundleResource Include="Resources\LaunchImage-2688%403x~iphoneXsMax-landscape_2688x1242.png" />
+    <BundleResource Include="Resources\LaunchImage-568h%402x~iphone_640x1136.png" />
+    <BundleResource Include="Resources\LaunchImage-750%402x~iphone6-landscape_1334x750.png" />
+    <BundleResource Include="Resources\LaunchImage-750%402x~iphone6-portrait_750x1334.png" />
+    <BundleResource Include="Resources\LaunchImage-828%402x~iphoneXr-portrait_828x1792.png" />
+    <BundleResource Include="Resources\LaunchImage-Landscape%402x~ipad_2048x1496.png" />
+    <BundleResource Include="Resources\LaunchImage-Landscape%402x~ipad_2048x1536.png" />
+    <BundleResource Include="Resources\LaunchImage-Landscape%402x~ipad_2224x1668.png" />
+    <BundleResource Include="Resources\LaunchImage-Landscape%402x~ipad_2732x2048.png" />
+    <BundleResource Include="Resources\LaunchImage-Landscape~ipad_1024x748.png" />
+    <BundleResource Include="Resources\LaunchImage-Landscape~ipad_1024x768.png" />
+    <BundleResource Include="Resources\LaunchImage-Portrait%402x~ipad_1536x2008.png" />
+    <BundleResource Include="Resources\LaunchImage-Portrait%402x~ipad_1536x2048.png" />
+    <BundleResource Include="Resources\LaunchImage-Portrait%402x~ipad_1668x2224.png" />
+    <BundleResource Include="Resources\LaunchImage-Portrait%402x~ipad_2048x2732.png" />
+    <BundleResource Include="Resources\LaunchImage-Portrait~ipad_768x1024.png" />
+    <BundleResource Include="Resources\LaunchImage.png" />
+    <BundleResource Include="Resources\LaunchImage~ipad.png" />
+    <BundleResource Include="Resources\LaunchImage~iphone-320x480.png" />
+    <BundleResource Include="Resources\LaunchImage~iphone_640x960.png" />
+    <BundleResource Include="Resources\characters.png" />
+    <BundleResource Include="Resources\characters%402x.png" />
+    <BundleResource Include="Resources\characters%403x.png" />
+    <BundleResource Include="Resources\marvel_bg.png" />
+    <BundleResource Include="Resources\marvel_bg%402x.png" />
+    <BundleResource Include="Resources\marvel_bg%403x.png" />
+    <BundleResource Include="Resources\movies.png" />
+    <BundleResource Include="Resources\movies%402x.png" />
+    <BundleResource Include="Resources\movies%403x.png" />
+    <BundleResource Include="Resources\series.png" />
+    <BundleResource Include="Resources\series%402x.png" />
+    <BundleResource Include="Resources\series%403x.png" />
+    <BundleResource Include="Resources\story_arcs.png" />
+    <BundleResource Include="Resources\story_arcs%402x.png" />
+    <BundleResource Include="Resources\story_arcs%403x.png" />
+    <BundleResource Include="Resources\teams.png" />
+    <BundleResource Include="Resources\teams%402x.png" />
+    <BundleResource Include="Resources\teams%403x.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\Default-Portrait.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\Default-Portrait%402x.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-1242%403x~iphoneXsMax-portrait_1242x2688.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-828%402x~iphoneXr-portrait_828x1792.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-2688%403x~iphoneXsMax-landscape_2688x1242.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-1792%402x~iphoneXr-landscape_1792x828.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-1125%403x~iphoneX-portrait_1125x2436.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-2436%403x~iphoneX-landscape_2436x1125.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-1242%403x~iphone6s-portrait_1242x2208.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-750%402x~iphone6-portrait_750x1334.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-1242%403x~iphone6s-landscape_2208x1242.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Portrait%402x~ipad_2048x2732.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage~iphone_640x960.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-568h%402x~iphone_640x1136.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Portrait~ipad_768x1024.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Portrait%402x~ipad_1536x2048.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Landscape~ipad_1024x768.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Landscape%402x~ipad_2048x1536.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage~iphone-320x480.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage~iphone_640x960-1.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-568h%402x~iphone_640x1136-1.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Portrait%402x~ipad_1536x2008.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Portrait~ipad_768x1024-1.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Portrait%402x~ipad_1536x2048-1.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Landscape~ipad_1024x748.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Landscape%402x~ipad_2048x1496.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Landscape~ipad_1024x768-1.png" />
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\LaunchImage-Landscape%402x~ipad_2048x1536-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\40.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\60.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\58.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\87.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\120.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\180.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\20.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\29.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\76.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\152.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\167.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\1024.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\16.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\32.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\64.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\128.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\256.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\512.png" />
+    <BundleResource Include="Resources\marvel.jpg" />
+    <BundleResource Include="Resources\marvel%402x.jpg" />
+    <BundleResource Include="Resources\marvel%403x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.425677" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+    <PackageReference Include="Xamarin.Forms.Visual.Material">
+      <Version>4.0.0.540366</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Svg.Forms">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Transformations">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Forms">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Svg">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\MarvelShellDemo\MarvelShellDemo.csproj">
+      <Project>{C7AF2587-79C4-4F02-ABD9-54139E01BDEC}</Project>
+      <Name>MarvelShellDemo</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

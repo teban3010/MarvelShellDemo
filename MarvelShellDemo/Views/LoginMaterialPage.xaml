@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="MarvelShellDemo.Views.LoginMaterialPage"
+             Visual="Material"
+             BackgroundColor="#F11E22">
+    <ScrollView VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+        <StackLayout Spacing="10" Margin="5" 
+                     VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+            <Image Source="marvel.jpg"
+                   Aspect="AspectFill"
+                   HorizontalOptions="FillAndExpand"/>
+            <Entry Placeholder="UserName"
+                   HorizontalOptions="FillAndExpand"/>
+            <Entry Placeholder="Password" IsPassword="true"
+                   HorizontalOptions="FillAndExpand"/>
+            <Button Text="Login" Clicked="Handle_Clicked"
+                    HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

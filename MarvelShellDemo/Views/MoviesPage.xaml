@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarvelShellDemo.Views.MoviesPage"
+             Visual="Material"
+             Title="{Binding Title}"
+             BackgroundImage="marvel_bg.png">
+    <StackLayout>
+        <CarouselView x:Name="CV" 
+                    ItemsSource="{Binding Movies}" 
+                    HeightRequest="300"
+                    HorizontalOptions="Center" 
+                    VerticalOptions="Center" 
+                    Margin="10">
+            <CarouselView.ItemsLayout>
+                <GridItemsLayout Orientation="Horizontal"
+                                 SnapPointsAlignment="Center" 
+                                 SnapPointsType="Mandatory"/>
+            </CarouselView.ItemsLayout>
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <ContentView>
+                        <Frame BorderColor="LightGray" CornerRadius="3" Margin="5" HasShadow="False">
+                            <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Start">
+                                <Label Text="{Binding name}" FontSize="24" VerticalOptions="Start" HorizontalOptions="CenterAndExpand"/>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    
+                                    <Image Source="{Binding image.medium_url}"
+                                           Aspect="AspectFill"
+                                           Grid.Row="0"
+                                           Grid.Column="0"
+                                           HorizontalOptions="StartAndExpand"
+                                           VerticalOptions="Center"/>
+                                    <Label Text="{Binding deck}" WidthRequest="150" 
+                                           Grid.Row="0"
+                                           Grid.Column="1"
+                                           VerticalOptions="Start" HorizontalOptions="End"/>
+                                </Grid>
+                            </StackLayout>
+                        </Frame>
+                    </ContentView>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+        <StackLayout VerticalOptions="StartAndExpand">
+            <Label Text="Scroll the CarouselView above or use the slider below!" HorizontalOptions="CenterAndExpand"/>
+            <Slider Minimum="0" Maximum="15" ValueChanged="Slider_ValueChanged" MinimumTrackColor="#01579b" MaximumTrackColor="#01579b" ThumbColor="#9575cd"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

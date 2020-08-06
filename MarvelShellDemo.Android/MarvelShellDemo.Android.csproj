@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9984721D-9028-4D1F-934B-9590E03838D0}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{6968b3a4-1835-46a3-ac5c-1ae33b475983}</TemplateGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>MarvelShellDemo.Droid</RootNamespace>
+    <AssemblyName>MarvelShellDemo.Android</AssemblyName>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
+    <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+    <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidManagedSymbols>true</AndroidManagedSymbols>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+    <PackageReference Include="Xamarin.FFImageLoading.Forms">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Transformations">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Svg.Forms">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.FFImageLoading.Svg">
+      <Version>2.4.11.982</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms">
+      <Version>4.1.0.496342-pre2</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms.Visual.Material">
+      <Version>4.1.0.496342-pre2</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Resources\.DS_Store" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Tabbar.axml" />
+    <AndroidResource Include="Resources\layout\Toolbar.axml" />
+    <AndroidResource Include="Resources\values\styles.xml" />
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon_round.xml" />
+    <AndroidResource Include="Resources\mipmap-hdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\drawable\xamarin_logo.png" />
+    <AndroidResource Include="Resources\drawable\tab_about.png" />
+    <AndroidResource Include="Resources\drawable\tab_feed.png" />
+    <AndroidResource Include="Resources\drawable\screen.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\characters.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\marvel_bg.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\movies.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\series.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\story_arcs.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\teams.png" />
+    <AndroidResource Include="Resources\drawable-ldpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\characters.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\marvel_bg.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\movies.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\series.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\story_arcs.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\teams.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\characters.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\marvel_bg.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\movies.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\series.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\story_arcs.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\teams.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\characters.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\marvel_bg.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\movies.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\series.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\story_arcs.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\teams.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\characters.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\marvel_bg.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\movies.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\series.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\story_arcs.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\teams.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\marvel.jpg" />
+    <AndroidResource Include="Resources\drawable-mdpi\marvel.jpg" />
+    <AndroidResource Include="Resources\drawable-xhdpi\marvel.jpg" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\marvel.jpg" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\marvel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\drawable-hdpi\" />
+    <Folder Include="Resources\drawable-xhdpi\" />
+    <Folder Include="Resources\drawable-xxhdpi\" />
+    <Folder Include="Resources\drawable-xxxhdpi\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MarvelShellDemo\MarvelShellDemo.csproj">
+      <Project>{C7AF2587-79C4-4F02-ABD9-54139E01BDEC}</Project>
+      <Name>MarvelShellDemo</Name>
+    </ProjectReference>
+  </ItemGroup>
+ <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+</Project>

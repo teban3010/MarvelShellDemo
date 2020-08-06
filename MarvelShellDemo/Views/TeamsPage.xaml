@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarvelShellDemo.Views.TeamsPage"
+             Visual="Material"
+             Title="{Binding Title}"
+             BackgroundImage="marvel_bg.png">
+    <CollectionView ItemsSource="{Binding Teams}"
+                    SelectionMode="Single">
+        <CollectionView.ItemsLayout>
+           <GridItemsLayout Orientation="Vertical"
+                            Span="2" />
+        </CollectionView.ItemsLayout>
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <ContentView>
+                    <Frame BorderColor="LightGray" Margin="5" CornerRadius="3" 
+                           Visual="Material" BackgroundColor="White" IsClippedToBounds="True"
+                           VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                        <StackLayout Spacing="0"
+                                     VerticalOptions="FillAndExpand"
+                                     HorizontalOptions="FillAndExpand">
+                            <Image Source="{Binding image.screen_url}"
+                                   Aspect="AspectFill"
+                                   HorizontalOptions="FillAndExpand"
+                                   VerticalOptions="Start"/>
+                            <Label Text="{Binding name}"
+                                   FontAttributes="Bold" 
+                                   HorizontalOptions="FillAndExpand"
+                                   VerticalOptions="Center"/>
+                            <Label Text="{Binding aliases}"
+                                   FontAttributes="Italic"
+                                   HorizontalOptions="FillAndExpand"
+                                   VerticalOptions="End" />
+                        </StackLayout>
+                    </Frame>
+                </ContentView>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+        <CollectionView.EmptyView>
+            <StackLayout>
+                <Label Text="No items to be displayed"
+                       Margin="10,25,10,10"
+                       FontAttributes="Bold"
+                       FontSize="18"
+                       HorizontalOptions="Fill"
+                       HorizontalTextAlignment="Center" />
+            </StackLayout>
+        </CollectionView.EmptyView>
+    </CollectionView>
+</ContentPage>

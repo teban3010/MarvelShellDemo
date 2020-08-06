@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+       xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+       mc:Ignorable="d" 
+       xmlns:local="clr-namespace:MarvelShellDemo.Views" 
+       Title="MarvelShellDemo" 
+       x:Class="MarvelShellDemo.AppShellMenu">
+    <!-- 
+        Styles and Resources 
+    -->
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Color x:Key="NavigationPrimary">#F11E22</Color>
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.BackgroundColor" Value="{StaticResource NavigationPrimary}" />
+                <Setter Property="Shell.ForegroundColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="White" />
+                <Setter Property="Shell.DisabledColor" Value="#FFB4FF" />
+                <Setter Property="Shell.UnselectedColor" Value="#FF95FF" />
+                <Setter Property="Shell.TabBarBackgroundColor" Value="{StaticResource NavigationPrimary}" />
+                <Setter Property="Shell.TabBarForegroundColor" Value="White" />
+                <Setter Property="Shell.TabBarUnselectedColor" Value="#FF95FF" />
+                <Setter Property="Shell.TabBarTitleColor" Value="White" />
+            </Style>
+            <Style TargetType="ShellItem" BasedOn="{StaticResource BaseStyle}" />
+        </ResourceDictionary>
+    </Shell.Resources>
+    
+    <!-- Optional Templates -->
+    <!--These may be provided inline as below or as separate classes.-->
+
+    <!--This header appears at the top of the Flyout.-->
+    <Shell.FlyoutHeaderTemplate>
+	    <DataTemplate>
+            <StackLayout>
+                <Image Source="marvel.jpg"
+                       Aspect="AspectFill"
+                       HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+    <!--ItemTemplate is for ShellItems as displayed in a Flyout-->    
+    <Shell.ItemTemplate>
+        <DataTemplate>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.2*" />
+                    <ColumnDefinition Width="0.8*" />
+                </Grid.ColumnDefinitions>
+                <Image Source="{Binding FlyoutIcon}"
+                       Margin="5"
+                       HeightRequest="45" />
+                <Label Grid.Column="1"
+                       Text="{Binding Title}"
+                       FontAttributes="Italic"
+                       VerticalTextAlignment="Center" />
+            </Grid>
+        </DataTemplate>
+    </Shell.ItemTemplate>
+    
+    <ShellContent Title="Characters" Icon="characters" ContentTemplate="{DataTemplate local:CharacterPage}" />
+    <ShellContent Title="Teams" Icon="teams" ContentTemplate="{DataTemplate local:TeamsPage}" />
+    <ShellContent Title="Movies" Icon="movies" ContentTemplate="{DataTemplate local:MoviesPage}" />
+    
+    <ShellContent Title="About" Icon="tab_about" ContentTemplate="{DataTemplate local:AboutPage}" />
+    
+    <!--MenuItemTemplate is for MenuItems as displayed in a Flyout-->
+    <Shell.MenuItemTemplate>
+        <DataTemplate>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.2*" />
+                    <ColumnDefinition Width="0.8*" />
+                </Grid.ColumnDefinitions>
+                <Image Source="{Binding Icon}"
+                       Margin="5"
+                       HeightRequest="45" />
+                <Label Grid.Column="1"
+                       Text="{Binding Text}"
+                       FontAttributes="Italic"
+                       VerticalTextAlignment="Center" />
+            </Grid>
+        </DataTemplate>
+    </Shell.MenuItemTemplate>
+    
+    <MenuItem Text="Feed"
+              IconImageSource="tab_feed.png" />
+</Shell>
